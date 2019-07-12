@@ -1,0 +1,952 @@
+[
+ {
+   "Sr.No": 1,
+   "Div_EName": "North Balaghat",
+   "Div_HName": "उत्तर बालाघाट ",
+   "STD": 7632,
+   "PhoneNO": 247044,
+   "MobileNO": 9424790101,
+   "FAXNO": "247487      ",
+   "EMAIL": "dfonbghat@mp.gov.in"
+ },
+ {
+   "Sr.No": 2,
+   "Div_EName": "South Balaghat",
+   "Div_HName": "दक्षिण बालाघाट ",
+   "STD": 7632,
+   "PhoneNO": 248414,
+   "MobileNO": 9424790200,
+   "FAXNO": "247226",
+   "EMAIL": "dfosbghat@mp.gov.in"
+ },
+ {
+   "Sr.No": 3,
+   "Div_EName": "North Betul",
+   "Div_HName": "उत्तर बैतूल",
+   "STD": 7141,
+   "PhoneNO": 234204,
+   "MobileNO": 9424790301,
+   "FAXNO": "07141-234204",
+   "EMAIL": "dfonbetul@mp.gov.in"
+ },
+ {
+   "Sr.No": 4,
+   "Div_EName": "South Betul",
+   "Div_HName": "दक्षिण बैतूल",
+   "STD": 7141,
+   "PhoneNO": 234266,
+   "MobileNO": 9424790400,
+   "FAXNO": "234266      ",
+   "EMAIL": "dfosbetul@mp.gov.in"
+ },
+ {
+   "Sr.No": 5,
+   "Div_EName": "West Betul",
+   "Div_HName": "पश्चिम बैतूल",
+   "STD": 7141,
+   "PhoneNO": 234708,
+   "MobileNO": 9424790500,
+   "FAXNO": "234708      ",
+   "EMAIL": "dfowbetul@mp.gov.in"
+ },
+ {
+   "Sr.No": 6,
+   "Div_EName": "Bhopal",
+   "Div_HName": "भोपाल ",
+   "STD": 755,
+   "PhoneNO": 2674359,
+   "MobileNO": 9424790551,
+   "FAXNO": "2674322",
+   "EMAIL": "dfotbpl@mp.gov.in"
+ },
+ {
+   "Sr.No": 7,
+   "Div_EName": "Raisen",
+   "Div_HName": "रायसेन ",
+   "STD": 7482,
+   "PhoneNO": 222027,
+   "MobileNO": 9424790650,
+   "FAXNO": "222027",
+   "EMAIL": "dfot.rsn@mp.gov.in"
+ },
+ {
+   "Sr.No": 8,
+   "Div_EName": "Obedullahganj",
+   "Div_HName": "औबेदुल्लागंज",
+   "STD": 7480,
+   "PhoneNO": 224062,
+   "MobileNO": 9424790710,
+   "FAXNO": "224911",
+   "EMAIL": "dfotogunj@mp.gov.in"
+ },
+ {
+   "Sr.No": 9,
+   "Div_EName": "Sehore",
+   "Div_HName": "सीहोर ",
+   "STD": 7562,
+   "PhoneNO": 222767,
+   "MobileNO": 9424790850,
+   "FAXNO": "223815",
+   "EMAIL": "dfot.seh@mp.gov.in"
+ },
+ {
+   "Sr.No": 10,
+   "Div_EName": "Vidisha",
+   "Div_HName": "विदिशा ",
+   "STD": 7592,
+   "PhoneNO": 232967,
+   "MobileNO": 9424790950,
+   "FAXNO": "232967",
+   "EMAIL": "dfotvidisha@mp.gov.in"
+ },
+ {
+   "Sr.No": 11,
+   "Div_EName": "Rajgarh",
+   "Div_HName": "राजगढ़ ",
+   "STD": 7372,
+   "PhoneNO": 255007,
+   "MobileNO": 9424790800,
+   "FAXNO": "255007",
+   "EMAIL": "dfotrajgarh@mp.gov.in"
+ },
+ {
+   "Sr.No": 12,
+   "Div_EName": "Chhatarpur",
+   "Div_HName": "छतरपुर ",
+   "STD": 7682,
+   "PhoneNO": 245316,
+   "MobileNO": 9424791051,
+   "FAXNO": "245316      ",
+   "EMAIL": "dfotchtpur@mp.gov.in"
+ },
+ {
+   "Sr.No": 13,
+   "Div_EName": "Tikamgarh",
+   "Div_HName": "टीकमढ़ ",
+   "STD": 7683,
+   "PhoneNO": 245315,
+   "MobileNO": 9424791350,
+   "FAXNO": "245315",
+   "EMAIL": "dfotkmgar@mp.gov.in"
+ },
+ {
+   "Sr.No": 14,
+   "Div_EName": "North Panna",
+   "Div_HName": "उत्तर पन्ना ",
+   "STD": 7732,
+   "PhoneNO": 252029,
+   "MobileNO": 9424791150,
+   "FAXNO": "254060",
+   "EMAIL": "dfotnpanna@mp.gov.in"
+ },
+ {
+   "Sr.No": 15,
+   "Div_EName": "South Panna",
+   "Div_HName": "दक्षिण पन्ना ",
+   "STD": 7732,
+   "PhoneNO": 252016,
+   "MobileNO": 9424791218,
+   "FAXNO": "252016",
+   "EMAIL": "dfotspanna@mp.gov.in"
+ },
+ {
+   "Sr.No": 16,
+   "Div_EName": "East Chhindwara",
+   "Div_HName": "पूर्व छिंदवाडा",
+   "STD": 7162,
+   "PhoneNO": 243457,
+   "MobileNO": 9424791451,
+   "FAXNO": "242267",
+   "EMAIL": "dfotechwara@mp.gov.in"
+ },
+ {
+   "Sr.No": 17,
+   "Div_EName": "West Chhindwara",
+   "Div_HName": "पश्चिम छिंदवाडा",
+   "STD": 7162,
+   "PhoneNO": 243458,
+   "MobileNO": 9424791525,
+   "FAXNO": "246996      ",
+   "EMAIL": "dfotwchwara@mp.gov.in"
+ },
+ {
+   "Sr.No": 18,
+   "Div_EName": "South Chhindwara",
+   "Div_HName": "दक्षिण छिंदवाडा",
+   "STD": 7162,
+   "PhoneNO": 243459,
+   "MobileNO": 9124791600,
+   "FAXNO": "230601      ",
+   "EMAIL": "dfotschwara@mp.gov.in"
+ },
+ {
+   "Sr.No": 19,
+   "Div_EName": "Gwalior",
+   "Div_HName": "ग्वालियर ",
+   "STD": 751,
+   "PhoneNO": 2341166,
+   "MobileNO": 9424791676,
+   "FAXNO": "7512341166  ",
+   "EMAIL": "dfotgwa@mp.gov.in"
+ },
+ {
+   "Sr.No": 20,
+   "Div_EName": "Morena",
+   "Div_HName": "मुरैना ",
+   "STD": 7532,
+   "PhoneNO": 234742,
+   "MobileNO": 9424791800,
+   "FAXNO": "234742      ",
+   "EMAIL": "dfotmorena@mp.gov.in"
+ },
+ {
+   "Sr.No": 21,
+   "Div_EName": "Datiya",
+   "Div_HName": "दतिया ",
+   "STD": 7522,
+   "PhoneNO": 237467,
+   "MobileNO": 9424791791,
+   "FAXNO": "237467      ",
+   "EMAIL": "dfotdatia@mp.gov.in"
+ },
+ {
+   "Sr.No": 22,
+   "Div_EName": "Sheopur",
+   "Div_HName": "श्योपुर ",
+   "STD": 7530,
+   "PhoneNO": 220002,
+   "MobileNO": 9424791875,
+   "FAXNO": "220602      ",
+   "EMAIL": "dfotskalan@mp.gov.in"
+ },
+ {
+   "Sr.No": 23,
+   "Div_EName": "Bhind",
+   "Div_HName": "भिण्ड ",
+   "STD": 7534,
+   "PhoneNO": 233948,
+   "MobileNO": 9424791654,
+   "FAXNO": "07534-233948",
+   "EMAIL": "dfotbhind@mp.gov.in"
+ },
+ {
+   "Sr.No": 24,
+   "Div_EName": "Hoshangabad",
+   "Div_HName": "होशंगाबाद ",
+   "STD": 7574,
+   "PhoneNO": 254178,
+   "MobileNO": 9424792027,
+   "FAXNO": "252303",
+   "EMAIL": "dfot.hbd@mp.gov.in"
+ },
+ {
+   "Sr.No": 25,
+   "Div_EName": "Harda",
+   "Div_HName": "हरदा ",
+   "STD": 7577,
+   "PhoneNO": 222003,
+   "MobileNO": 9424791978,
+   "FAXNO": "224224",
+   "EMAIL": "dfotharda@mp.gov.in"
+ },
+ {
+   "Sr.No": 26,
+   "Div_EName": "Indore",
+   "Div_HName": "इन्दौर ",
+   "STD": 731,
+   "PhoneNO": 2490239,
+   "MobileNO": 9424792326,
+   "FAXNO": "2492238     ",
+   "EMAIL": "dfotindo@mp.gov.in"
+ },
+ {
+   "Sr.No": 27,
+   "Div_EName": "Dhar",
+   "Div_HName": "धार ",
+   "STD": 7292,
+   "PhoneNO": 222250,
+   "MobileNO": 9424792225,
+   "FAXNO": "222250      ",
+   "EMAIL": "dfotdhar@mp.gov.in"
+ },
+ {
+   "Sr.No": 28,
+   "Div_EName": "Jhabua",
+   "Div_HName": "झाबुआ",
+   "STD": 7392,
+   "PhoneNO": 243316,
+   "MobileNO": 9424792425,
+   "FAXNO": "243316",
+   "EMAIL": "dfot.alp@mp.gov.in"
+ },
+ {
+   "Sr.No": 29,
+   "Div_EName": "Alirajpur",
+   "Div_HName": "आलीराजपुर",
+   "STD": 7394,
+   "PhoneNO": 234530,
+   "MobileNO": 9424792510,
+   "FAXNO": "234530",
+   "EMAIL": "dfotjhab@mp.gov.in"
+ },
+ {
+   "Sr.No": 30,
+   "Div_EName": "Jabalpur",
+   "Div_HName": "जबलपुर ",
+   "STD": 761,
+   "PhoneNO": 2624195,
+   "MobileNO": 9424792626,
+   "FAXNO": "2624195",
+   "EMAIL": "dfotjbp@mp.gov.in"
+ },
+ {
+   "Sr.No": 31,
+   "Div_EName": "Katni",
+   "Div_HName": "कटनी ",
+   "STD": 7622,
+   "PhoneNO": 227417,
+   "MobileNO": 9424792725,
+   "FAXNO": "220700",
+   "EMAIL": "dfotkatn@mp.gov.in"
+ },
+ {
+   "Sr.No": 32,
+   "Div_EName": "East Mandla",
+   "Div_HName": "पूर्व मण्डला ",
+   "STD": 7642,
+   "PhoneNO": 252423,
+   "MobileNO": 9424792825,
+   "FAXNO": "252650      ",
+   "EMAIL": "dfotemand@mp.gov.in"
+ },
+ {
+   "Sr.No": 33,
+   "Div_EName": "West Mandla",
+   "Div_HName": "पश्चिम मण्डला",
+   "STD": 7642,
+   "PhoneNO": 251014,
+   "MobileNO": 9424792727,
+   "FAXNO": "251014",
+   "EMAIL": "dfotwmand@mp.gov.in"
+ },
+ {
+   "Sr.No": 34,
+   "Div_EName": "Dindori",
+   "Div_HName": "डिण्डोरी ",
+   "STD": 7644,
+   "PhoneNO": 234400,
+   "MobileNO": 9424792600,
+   "FAXNO": "234066",
+   "EMAIL": "dfotddori@mp.gov.in"
+ },
+ {
+   "Sr.No": 35,
+   "Div_EName": "Khandwa",
+   "Div_HName": "खंडवा ",
+   "STD": 733,
+   "PhoneNO": 2223244,
+   "MobileNO": 9424793176,
+   "FAXNO": "2224531",
+   "EMAIL": "dfot.khd@mp.gov.in"
+ },
+ {
+   "Sr.No": 36,
+   "Div_EName": "Burhanpur",
+   "Div_HName": "बुरहानुपर ",
+   "STD": 7325,
+   "PhoneNO": 251280,
+   "MobileNO": 9424793075,
+   "FAXNO": "252305      ",
+   "EMAIL": "dfotbpur@mp.gov.in"
+ },
+ {
+   "Sr.No": 37,
+   "Div_EName": "Khargone",
+   "Div_HName": "खरगौन ",
+   "STD": 7282,
+   "PhoneNO": 233982,
+   "MobileNO": 9424793275,
+   "FAXNO": "235388      ",
+   "EMAIL": "dfotkgone@mp.gov.in"
+ },
+ {
+   "Sr.No": 38,
+   "Div_EName": "Barwah",
+   "Div_HName": "बडवाह ",
+   "STD": 7280,
+   "PhoneNO": 222154,
+   "MobileNO": 9424793300,
+   "FAXNO": "07280-224110",
+   "EMAIL": "dfotbwaha@mp.gov.in"
+ },
+ {
+   "Sr.No": 39,
+   "Div_EName": "Barwani",
+   "Div_HName": "बडवानी",
+   "STD": 7290,
+   "PhoneNO": 222038,
+   "MobileNO": 9424793025,
+   "FAXNO": "222038",
+   "EMAIL": "dfot.bdw@mp.gov.in"
+ },
+ {
+   "Sr.No": 40,
+   "Div_EName": "Sendhwa",
+   "Div_HName": "सेंधवा",
+   "STD": 7281,
+   "PhoneNO": 228409,
+   "MobileNO": 9424793035,
+   "FAXNO": "228408      ",
+   "EMAIL": "dfotsndwa@mp.gov.in"
+ },
+ {
+   "Sr.No": 41,
+   "Div_EName": "Rewa",
+   "Div_HName": "रीवा ",
+   "STD": 7662,
+   "PhoneNO": 251335,
+   "MobileNO": 9424793326,
+   "FAXNO": "254335",
+   "EMAIL": "dfot.rwa@mp.gov.in"
+ },
+ {
+   "Sr.No": 42,
+   "Div_EName": "Satna",
+   "Div_HName": "सतना ",
+   "STD": 7672,
+   "PhoneNO": 223355,
+   "MobileNO": 9424793425,
+   "FAXNO": "404353      ",
+   "EMAIL": "dfotsatna@mp.gov.in"
+ },
+ {
+   "Sr.No": 43,
+   "Div_EName": "Singrauli",
+   "Div_HName": "सिंगरौली",
+   "STD": 7805,
+   "PhoneNO": 233336,
+   "MobileNO": 9424793525,
+   "FAXNO": "233335",
+   "EMAIL": "dfot.sgl@mp.gov.in"
+ },
+ {
+   "Sr.No": 44,
+   "Div_EName": "Sidhi",
+   "Div_HName": "सीधी",
+   "STD": 7822,
+   "PhoneNO": 252235,
+   "MobileNO": 9424793605,
+   "FAXNO": "250121      ",
+   "EMAIL": "dfot.sdh@mp.gov.in"
+ },
+ {
+   "Sr.No": 45,
+   "Div_EName": "South Sagar",
+   "Div_HName": "दक्षिण सागर",
+   "STD": 7582,
+   "PhoneNO": 236215,
+   "MobileNO": 9424793806,
+   "FAXNO": "236215      ",
+   "EMAIL": "dfotssagar@mp.gov.in"
+ },
+ {
+   "Sr.No": 46,
+   "Div_EName": "North Sagar",
+   "Div_HName": "उत्तर सागर ",
+   "STD": 7582,
+   "PhoneNO": 236337,
+   "MobileNO": 9424793859,
+   "FAXNO": "236337      ",
+   "EMAIL": "dfotnsagar@mp.gov.in"
+ },
+ {
+   "Sr.No": 47,
+   "Div_EName": "Noradehi Sanctuary",
+   "Div_HName": "नौरादेही अभयारण्य",
+   "STD": 7582,
+   "PhoneNO": 236867,
+   "MobileNO": 9424793905,
+   "FAXNO": "236867",
+   "EMAIL": "dfowlndehi@mp.gov.in"
+ },
+ {
+   "Sr.No": 48,
+   "Div_EName": "Damoh",
+   "Div_HName": "दमोह",
+   "STD": 7812,
+   "PhoneNO": 222541,
+   "MobileNO": 9424793705,
+   "FAXNO": "222725",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 49,
+   "Div_EName": "North Seoni",
+   "Div_HName": "उत्तर सिवनी",
+   "STD": 7692,
+   "PhoneNO": 220556,
+   "MobileNO": 9424794150,
+   "FAXNO": "226181",
+   "EMAIL": "dfotnseoni@mp.gov.in"
+ },
+ {
+   "Sr.No": 50,
+   "Div_EName": "South Seoni",
+   "Div_HName": "दक्षिण सिवनी",
+   "STD": 7692,
+   "PhoneNO": 220530,
+   "MobileNO": 9424794107,
+   "FAXNO": "222989      ",
+   "EMAIL": "dfotsseoni@mp.gov.in"
+ },
+ {
+   "Sr.No": 51,
+   "Div_EName": "Narsinghpur",
+   "Div_HName": "नरसिंहपुर ",
+   "STD": 7792,
+   "PhoneNO": 230624,
+   "MobileNO": 9424794005,
+   "FAXNO": "230453      ",
+   "EMAIL": "dfotnpur@mp.gov.in"
+ },
+ {
+   "Sr.No": 52,
+   "Div_EName": "Umaria",
+   "Div_HName": "उमरिया ",
+   "STD": 7653,
+   "PhoneNO": 222217,
+   "MobileNO": 9424794505,
+   "FAXNO": "222217",
+   "EMAIL": "dfotumaria@mp.gov.in"
+ },
+ {
+   "Sr.No": 53,
+   "Div_EName": "Anuppur",
+   "Div_HName": "अनुपपुर ",
+   "STD": 7659,
+   "PhoneNO": 222038,
+   "MobileNO": 9424794255,
+   "FAXNO": "",
+   "EMAIL": "dfotanppur@mp.gov.in"
+ },
+ {
+   "Sr.No": 54,
+   "Div_EName": "North Shahdol",
+   "Div_HName": "उत्तर शहडोल ",
+   "STD": 7652,
+   "PhoneNO": 245167,
+   "MobileNO": 9424794401,
+   "FAXNO": "245167",
+   "EMAIL": "dfonshahd@mp.gov.in"
+ },
+ {
+   "Sr.No": 55,
+   "Div_EName": "South Shahdol",
+   "Div_HName": "दक्षिण शहडोल ",
+   "STD": 7652,
+   "PhoneNO": 240304,
+   "MobileNO": 9424794430,
+   "FAXNO": "240304      ",
+   "EMAIL": "dfosshahd@mp.gov.in"
+ },
+ {
+   "Sr.No": 56,
+   "Div_EName": "Shivpuri",
+   "Div_HName": "शिवपुरी ",
+   "STD": 7492,
+   "PhoneNO": 221012,
+   "MobileNO": 9424794737,
+   "FAXNO": "07492-221012",
+   "EMAIL": "dfotshivp@mp.gov.in"
+ },
+ {
+   "Sr.No": 57,
+   "Div_EName": "Guna",
+   "Div_HName": "गुना ",
+   "STD": 7542,
+   "PhoneNO": 259650,
+   "MobileNO": 9424794655,
+   "FAXNO": "254960      ",
+   "EMAIL": "dfot.gun@mp.gov.in"
+ },
+ {
+   "Sr.No": 58,
+   "Div_EName": "Ashok Nagar",
+   "Div_HName": "अशोकनगर ",
+   "STD": 7543,
+   "PhoneNO": 221120,
+   "MobileNO": 9424794605,
+   "FAXNO": "07543-221120",
+   "EMAIL": "dfoanagrt@mp.gov.in"
+ },
+ {
+   "Sr.No": 59,
+   "Div_EName": "Ujjain",
+   "Div_HName": "उज्जैन ",
+   "STD": 734,
+   "PhoneNO": 2512104,
+   "MobileNO": 9424794911,
+   "FAXNO": "2512104     ",
+   "EMAIL": "dfotujjain@mp.gov.in"
+ },
+ {
+   "Sr.No": 60,
+   "Div_EName": "Shajapur",
+   "Div_HName": "शाजापुर ",
+   "STD": 7364,
+   "PhoneNO": 227157,
+   "MobileNO": 9424794885,
+   "FAXNO": "222028      ",
+   "EMAIL": "dfotsjpur@mp.gov.in"
+ },
+ {
+   "Sr.No": 61,
+   "Div_EName": "Ratlam",
+   "Div_HName": "रतलाम ",
+   "STD": 7412,
+   "PhoneNO": 270418,
+   "MobileNO": 9424794960,
+   "FAXNO": "270418      ",
+   "EMAIL": "dfotrtlam@mp.gov.in"
+ },
+ {
+   "Sr.No": 62,
+   "Div_EName": "Mandsaur",
+   "Div_HName": "मंदसौर ",
+   "STD": 7422,
+   "PhoneNO": 255519,
+   "MobileNO": 9424794935,
+   "FAXNO": "255519      ",
+   "EMAIL": "dfotmsour@mp.gov.in"
+ },
+ {
+   "Sr.No": 63,
+   "Div_EName": "Neemuch",
+   "Div_HName": "नीमच ",
+   "STD": 7423,
+   "PhoneNO": 226605,
+   "MobileNO": 9424794835,
+   "FAXNO": "226605",
+   "EMAIL": "dfoneemuch.mpforest.org"
+ },
+ {
+   "Sr.No": 64,
+   "Div_EName": "Dewas",
+   "Div_HName": "देवास ",
+   "STD": 7272,
+   "PhoneNO": 253020,
+   "MobileNO": 9424792126,
+   "FAXNO": "253020      ",
+   "EMAIL": "dfotdwas@mp.gov.in"
+ },
+ {
+   "Sr.No": 65,
+   "Div_EName": "Kanha National Park(Core)",
+   "Div_HName": "कान्हा राष्ट्रीय उद्यान(कोर) ",
+   "STD": 7642,
+   "PhoneNO": 250760,
+   "MobileNO": 9424792002,
+   "FAXNO": "251266      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 66,
+   "Div_EName": "Kanha National Park(Buffer)",
+   "Div_HName": "कान्हा राष्ट्रीय उद्यान(बफ़र)",
+   "STD": 7642,
+   "PhoneNO": 250760,
+   "MobileNO": 9424792003,
+   "FAXNO": "251266      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 67,
+   "Div_EName": "Panna National Park",
+   "Div_HName": "पन्ना राष्ट्रीय उद्यान ",
+   "STD": 7732,
+   "PhoneNO": 291210,
+   "MobileNO": 9424791242,
+   "FAXNO": "252823      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 68,
+   "Div_EName": "Pench Tiger Reserve",
+   "Div_HName": "पेंच टाईगर रिजर्व",
+   "STD": 7692,
+   "PhoneNO": 223794,
+   "MobileNO": 9424794106,
+   "FAXNO": "223204",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 69,
+   "Div_EName": "Satpuda Tiger Reserve",
+   "Div_HName": "सतपुड़ा राष्ट्रीय उद्यान",
+   "STD": 7574,
+   "PhoneNO": 254394,
+   "MobileNO": 9427492100,
+   "FAXNO": "252133      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 70,
+   "Div_EName": "Bandhavgarh NP",
+   "Div_HName": "बांधवगढ़ राष्ट्रीय उद्यान ",
+   "STD": 7653,
+   "PhoneNO": 222214,
+   "MobileNO": 9424794330,
+   "FAXNO": "222724      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 71,
+   "Div_EName": "Madhav National Park",
+   "Div_HName": "माधव राष्ट्रीय उद्यान",
+   "STD": 7492,
+   "PhoneNO": 223379,
+   "MobileNO": 9424794805,
+   "FAXNO": "07492 223379",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 72,
+   "Div_EName": "Sanjay National Park",
+   "Div_HName": "संजय नेशनल पार्क सिधी ",
+   "STD": 7822,
+   "PhoneNO": 252409,
+   "MobileNO": 9424793668,
+   "FAXNO": "250121",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 73,
+   "Div_EName": "Kuno Palpur Van Prani Sheopur",
+   "Div_HName": "कुनो वन प्राणी श्योपुर ",
+   "STD": 7530,
+   "PhoneNO": 220004,
+   "MobileNO": 9424791938,
+   "FAXNO": "223390      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 74,
+   "Div_EName": "North Balaghat(P)",
+   "Div_HName": "उत्तर बालाघाट(उ.)",
+   "STD": 7362,
+   "PhoneNO": 241518,
+   "MobileNO": 9424796400,
+   "FAXNO": "241518      ",
+   "EMAIL": "dfopnbght@mp.gov.in"
+ },
+ {
+   "Sr.No": 75,
+   "Div_EName": "South Balaghat(P)",
+   "Div_HName": "दक्षिण बालाघाट(उ.)",
+   "STD": 7632,
+   "PhoneNO": 241516,
+   "MobileNO": 9424796300,
+   "FAXNO": "7632241516  ",
+   "EMAIL": "dfopsbght@mp.gov.in"
+ },
+ {
+   "Sr.No": 76,
+   "Div_EName": "Betul(P)",
+   "Div_HName": "बैतूल(उ.)",
+   "STD": 7141,
+   "PhoneNO": 234408,
+   "MobileNO": 9424796040,
+   "FAXNO": "234408",
+   "EMAIL": "dfopbetul@mp.gov.in"
+ },
+ {
+   "Sr.No": 77,
+   "Div_EName": "Raisen(P)",
+   "Div_HName": "रायसेन(उ.)",
+   "STD": 7482,
+   "PhoneNO": 222110,
+   "MobileNO": 9424796200,
+   "FAXNO": "222183      ",
+   "EMAIL": "dfop.rsn@mp.gov.in"
+ },
+ {
+   "Sr.No": 78,
+   "Div_EName": "Harda(P)",
+   "Div_HName": "हरदा(उ.)",
+   "STD": 7577,
+   "PhoneNO": 222025,
+   "MobileNO": 9424795900,
+   "FAXNO": "222025",
+   "EMAIL": "dfopnharda@mp.gov.in"
+ },
+ {
+   "Sr.No": 79,
+   "Div_EName": "Mandla(P)",
+   "Div_HName": "मण्डला(उ.)",
+   "STD": 7642,
+   "PhoneNO": 252449,
+   "MobileNO": 9424796360,
+   "FAXNO": "252449",
+   "EMAIL": "dfowpmand@mp.gov.in"
+ },
+ {
+   "Sr.No": 80,
+   "Div_EName": "Dindori(P)",
+   "Div_HName": "डिण्डोरी(उ.)",
+   "STD": 7644,
+   "PhoneNO": 234312,
+   "MobileNO": 9424796111,
+   "FAXNO": "234312      ",
+   "EMAIL": "dfopddori@mp.gov.in"
+ },
+ {
+   "Sr.No": 81,
+   "Div_EName": "Khandwa(P)",
+   "Div_HName": "खंडवा( (उ.)",
+   "STD": 733,
+   "PhoneNO": 2223221,
+   "MobileNO": 9424795995,
+   "FAXNO": "2223260",
+   "EMAIL": "dfopkhndw@mp.gov.in"
+ },
+ {
+   "Sr.No": 82,
+   "Div_EName": "Dewas(P)",
+   "Div_HName": "देवास(उ.)",
+   "STD": 7272,
+   "PhoneNO": 251364,
+   "MobileNO": 9424796220,
+   "FAXNO": "251364      ",
+   "EMAIL": "dfopdwas@mp.gov.in"
+ },
+ {
+   "Sr.No": 83,
+   "Div_EName": "Van Vihar Bhopal",
+   "Div_HName": "वन विहार राष्ट्रीय उद्यान",
+   "STD": 755,
+   "PhoneNO": null,
+   "MobileNO": 9424790610,
+   "FAXNO": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 84,
+   "Div_EName": "Pri Ranger College Balaghat",
+   "Div_HName": "रेंजर विधालय बालाघाट ",
+   "STD": 7632,
+   "PhoneNO": 240149,
+   "MobileNO": 9424790610,
+   "FAXNO": "240149",
+   "EMAIL": "dirftc.bgt@mp.gov.in"
+ },
+ {
+   "Sr.No": 85,
+   "Div_EName": "Director Forest Training Betul",
+   "Div_HName": "संचालक फारेस्ट टेनिंग बैतुल",
+   "STD": 7141,
+   "PhoneNO": 234386,
+   "MobileNO": 9424790611,
+   "FAXNO": "234386",
+   "EMAIL": "dirftc.btl@mp.gov.in"
+ },
+ {
+   "Sr.No": 86,
+   "Div_EName": "Director RGV Lakhnadon",
+   "Div_HName": "संचालक आर.जी.व्ही. लखनादौन ",
+   "STD": 7690,
+   "PhoneNO": 240601,
+   "MobileNO": 9424790614,
+   "FAXNO": "7692223997",
+   "EMAIL": "dirftc.lkhdon@mp.gov.in"
+ },
+ {
+   "Sr.No": 87,
+   "Div_EName": "Director FTS Amarkantak",
+   "Div_HName": "संचालक एफ.टी.एस. अमरकंटक ",
+   "STD": 7629,
+   "PhoneNO": 269342,
+   "MobileNO": 9424794313,
+   "FAXNO": "269342",
+   "EMAIL": "dirfts.akantk@mp.gov.in"
+ },
+ {
+   "Sr.No": 88,
+   "Div_EName": "Director FTS Shivpuri",
+   "Div_HName": "संचालक एफ.टी.एस. शिवपुरी ",
+   "STD": 7492,
+   "PhoneNO": 223610,
+   "MobileNO": 9424790613,
+   "FAXNO": "221012",
+   "EMAIL": "dirftc.svp@mp.gov.in"
+ },
+ {
+   "Sr.No": 89,
+   "Div_EName": "Court Cases",
+   "Div_HName": "कोर्ट केसेस",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNO": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 90,
+   "Div_EName": "Forest Guard Training School Govindgarh",
+   "Div_HName": "वनरक्षक प्रशिक्षण विधालय गोविेदगढ",
+   "STD": 7662,
+   "PhoneNO": 261653,
+   "MobileNO": 9424793361,
+   "FAXNO": "241689",
+   "EMAIL": "dirftc.govindgarh@mp.gov.in"
+ },
+ {
+   "Sr.No": 91,
+   "Div_EName": "Forest Training School Jhabua",
+   "Div_HName": "वन प्रशिक्षण विधालय झाबुआ",
+   "STD": 7392,
+   "PhoneNO": 244542,
+   "MobileNO": 9424792425,
+   "FAXNO": "243316",
+   "EMAIL": "dirftc.Jhabua@mp.gov.in"
+ },
+ {
+   "Sr.No": 92,
+   "Div_EName": "Forest Training School Pachmarhi",
+   "Div_HName": "वन प्रशिक्षण विधालय पचमढी",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792122,
+   "FAXNO": "            ",
+   "EMAIL": "dirftc.Pachmari@mp.gov.in"
+ },
+ {
+   "Sr.No": 93,
+   "Div_EName": "Forest Training School Tala Umariya",
+   "Div_HName": "वन प्रशिक्षण विधालय ताला उमरिया",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNO": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 94,
+   "Div_EName": "Seoni (P)",
+   "Div_HName": "सिवनी(उ.)",
+   "STD": 7692,
+   "PhoneNO": 220554,
+   "MobileNO": 9424795935,
+   "FAXNO": "220319",
+   "EMAIL": "dfop.sni@mp.gov.in"
+ },
+ {
+   "Sr.No": 95,
+   "Div_EName": "Chhindwara(P)",
+   "Div_HName": "छिंदवाडा(उ.)",
+   "STD": 7162,
+   "PhoneNO": 243460,
+   "MobileNO": 9424796100,
+   "FAXNO": "7162243460",
+   "EMAIL": "dfopchwara@mp.gov.in"
+ }
+]

@@ -1,0 +1,5732 @@
+[
+ {
+   "Sr.No": 1,
+   "Range_EName": "East Baihar",
+   "Range_HName": "पूर्व बैहर ",
+   "STD": 7636,
+   "PhoneNO": 256958,
+   "MobileNO": 9424790108,
+   "FAXNo": "            ",
+   "EMAIL": "robaihareast@mp.gov.in"
+ },
+ {
+   "Sr.No": 2,
+   "Range_EName": "West Baihar",
+   "Range_HName": "पश्चिम बैहर ",
+   "STD": 7636,
+   "PhoneNO": 256959,
+   "MobileNO": 9424790109,
+   "FAXNo": "            ",
+   "EMAIL": "robaiharwest@mp.gov.in"
+ },
+ {
+   "Sr.No": 3,
+   "Range_EName": "Birsa Damoh",
+   "Range_HName": "बिरसा दमोह ",
+   "STD": 7637,
+   "PhoneNO": 259277,
+   "MobileNO": 9424790110,
+   "FAXNo": "            ",
+   "EMAIL": "robirsadamoh@mp.gov.in"
+ },
+ {
+   "Sr.No": 4,
+   "Range_EName": "North Lamta",
+   "Range_HName": "उत्तर लामता ",
+   "STD": 7634,
+   "PhoneNO": 254189,
+   "MobileNO": 9424790104,
+   "FAXNo": "            ",
+   "EMAIL": "rolamtanorth@mp.gov.in"
+ },
+ {
+   "Sr.No": 5,
+   "Range_EName": "South Lamta",
+   "Range_HName": "दक्षिण लामता ",
+   "STD": 7632,
+   "PhoneNO": 239200,
+   "MobileNO": 9424790105,
+   "FAXNo": "            ",
+   "EMAIL": "rolamtasouth@mp.gov.in"
+ },
+ {
+   "Sr.No": 6,
+   "Range_EName": "North Ukwa",
+   "Range_HName": "उत्तर उकवा ",
+   "STD": 7636,
+   "PhoneNO": 274551,
+   "MobileNO": 9424790106,
+   "FAXNo": "            ",
+   "EMAIL": "roukwanorth@mp.gov.in"
+ },
+ {
+   "Sr.No": 7,
+   "Range_EName": "South Ukwa",
+   "Range_HName": "दक्षिण उकवा ",
+   "STD": 7636,
+   "PhoneNO": 274552,
+   "MobileNO": 9424790107,
+   "FAXNo": "            ",
+   "EMAIL": "roukwasouth@mp.gov.in"
+ },
+ {
+   "Sr.No": 8,
+   "Range_EName": "Katangi",
+   "Range_HName": "कटंगी ",
+   "STD": 7630,
+   "PhoneNO": 250350,
+   "MobileNO": 9424790206,
+   "FAXNo": "            ",
+   "EMAIL": "rokatangi@mp.gov.in"
+ },
+ {
+   "Sr.No": 9,
+   "Range_EName": "Lal Barra",
+   "Range_HName": "लालबर्रा ",
+   "STD": 7633,
+   "PhoneNO": null,
+   "MobileNO": 9424790205,
+   "FAXNo": "            ",
+   "EMAIL": "rolalburra@mp.gov.in"
+ },
+ {
+   "Sr.No": 10,
+   "Range_EName": "Khairlanji",
+   "Range_HName": "खैरलांजी ",
+   "STD": 7633,
+   "PhoneNO": 280153,
+   "MobileNO": 9424790207,
+   "FAXNo": "            ",
+   "EMAIL": "rokhairlanji@mp.gov.in"
+ },
+ {
+   "Sr.No": 11,
+   "Range_EName": "Waraseoni",
+   "Range_HName": "वारासिवनी ",
+   "STD": 7633,
+   "PhoneNO": 253343,
+   "MobileNO": 9424790204,
+   "FAXNo": "            ",
+   "EMAIL": "rowaraseoni@mp.gov.in"
+ },
+ {
+   "Sr.No": 12,
+   "Range_EName": "Lougur",
+   "Range_HName": "लौगुर ",
+   "STD": 7632,
+   "PhoneNO": 247466,
+   "MobileNO": 9424790208,
+   "FAXNo": "            ",
+   "EMAIL": "rolaugur@mp.gov.in"
+ },
+ {
+   "Sr.No": 13,
+   "Range_EName": "Balaghat",
+   "Range_HName": "बालाघाट ",
+   "STD": 7632,
+   "PhoneNO": 247703,
+   "MobileNO": 9424790203,
+   "FAXNo": "            ",
+   "EMAIL": "robalaghat@mp.gov.in"
+ },
+ {
+   "Sr.No": 14,
+   "Range_EName": "Kirnapur",
+   "Range_HName": "किरनापुर ",
+   "STD": 7632,
+   "PhoneNO": 246659,
+   "MobileNO": 9424790210,
+   "FAXNo": "            ",
+   "EMAIL": "rokirnapur@mp.gov.in"
+ },
+ {
+   "Sr.No": 15,
+   "Range_EName": "Hatta",
+   "Range_HName": "हट्टा ",
+   "STD": 7632,
+   "PhoneNO": 282730,
+   "MobileNO": 9424790209,
+   "FAXNo": "            ",
+   "EMAIL": "rohatta@mp.gov.in"
+ },
+ {
+   "Sr.No": 16,
+   "Range_EName": "West Lanji",
+   "Range_HName": "पश्चिम लांजी ",
+   "STD": 7635,
+   "PhoneNO": 255479,
+   "MobileNO": 9424790211,
+   "FAXNo": "            ",
+   "EMAIL": "rowestlanji@mp.gov.in"
+ },
+ {
+   "Sr.No": 17,
+   "Range_EName": "East Lanji",
+   "Range_HName": "पूर्व लांजी ",
+   "STD": 7635,
+   "PhoneNO": 255625,
+   "MobileNO": 9424790212,
+   "FAXNo": "            ",
+   "EMAIL": "roeastlanji@mp.gov.in"
+ },
+ {
+   "Sr.No": 18,
+   "Range_EName": "Betul",
+   "Range_HName": "बैतूल ",
+   "STD": 7141,
+   "PhoneNO": 236404,
+   "MobileNO": 9424790306,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 19,
+   "Range_EName": "Shahpur",
+   "Range_HName": "शाहपुर ",
+   "STD": 7146,
+   "PhoneNO": 273580,
+   "MobileNO": 9424790307,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 20,
+   "Range_EName": "Bhaura",
+   "Range_HName": "भौंरा ",
+   "STD": 7146,
+   "PhoneNO": 275001,
+   "MobileNO": 9424790308,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 21,
+   "Range_EName": "Sarni",
+   "Range_HName": "सारनी ",
+   "STD": 7146,
+   "PhoneNO": 278812,
+   "MobileNO": 9424790309,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 22,
+   "Range_EName": "Ranipur",
+   "Range_HName": "रानीपुर ",
+   "STD": 7146,
+   "PhoneNO": 249218,
+   "MobileNO": 9424790310,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 23,
+   "Range_EName": "Tapti",
+   "Range_HName": "ताप्ती ",
+   "STD": 7141,
+   "PhoneNO": 232534,
+   "MobileNO": 9424790405,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 24,
+   "Range_EName": "Amla",
+   "Range_HName": "आमला",
+   "STD": 7147,
+   "PhoneNO": 286673,
+   "MobileNO": 9424790404,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 25,
+   "Range_EName": "Multai",
+   "Range_HName": "मुलताई ",
+   "STD": 7147,
+   "PhoneNO": 225546,
+   "MobileNO": 9424790406,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 26,
+   "Range_EName": "Athner",
+   "Range_HName": "आठनेर ",
+   "STD": 7144,
+   "PhoneNO": 240033,
+   "MobileNO": 9960175218,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 27,
+   "Range_EName": "Bhainsdehi",
+   "Range_HName": "भैंसदेही ",
+   "STD": 7143,
+   "PhoneNO": 287969,
+   "MobileNO": 9424790407,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 28,
+   "Range_EName": "Sawalmendha",
+   "Range_HName": "सांवलमेंढ़ा ",
+   "STD": 7143,
+   "PhoneNO": 284269,
+   "MobileNO": 9424790408,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 29,
+   "Range_EName": "Chicholi",
+   "Range_HName": "चिचोली",
+   "STD": 7145,
+   "PhoneNO": 244128,
+   "MobileNO": 9424790503,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 30,
+   "Range_EName": "Saoligarh",
+   "Range_HName": "सावंलीगढ़ ",
+   "STD": 1743,
+   "PhoneNO": 287969,
+   "MobileNO": 9424790535,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 31,
+   "Range_EName": "Gawasen",
+   "Range_HName": "गवासेन ",
+   "STD": 7142,
+   "PhoneNO": 223106,
+   "MobileNO": 9424790506,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 32,
+   "Range_EName": "Taodi",
+   "Range_HName": "तावड़ी ",
+   "STD": 7145,
+   "PhoneNO": 282707,
+   "MobileNO": 9424790546,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 33,
+   "Range_EName": "Mohda",
+   "Range_HName": "मोहदा ",
+   "STD": 7142,
+   "PhoneNO": 223127,
+   "MobileNO": 9424790547,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 34,
+   "Range_EName": "Samardha",
+   "Range_HName": "समर्घा ",
+   "STD": 755,
+   "PhoneNO": 2552594,
+   "MobileNO": 9424790553,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 35,
+   "Range_EName": "Bairasia",
+   "Range_HName": "बैरसिया ",
+   "STD": 7565,
+   "PhoneNO": 241054,
+   "MobileNO": 9424790573,
+   "FAXNo": "241055",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 36,
+   "Range_EName": "West Raisen",
+   "Range_HName": "पश्चिम रायसेन",
+   "STD": 7482,
+   "PhoneNO": 222836,
+   "MobileNO": 9424790652,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 37,
+   "Range_EName": "Garhi",
+   "Range_HName": "गढ़ी ",
+   "STD": 7481,
+   "PhoneNO": 268322,
+   "MobileNO": 9424790684,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 38,
+   "Range_EName": "Begumganj",
+   "Range_HName": "बेगमगंज ",
+   "STD": 7487,
+   "PhoneNO": 272806,
+   "MobileNO": 9424790620,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 39,
+   "Range_EName": "East Raisen",
+   "Range_HName": "पूर्व रायसेन",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 40,
+   "Range_EName": "West Silwani",
+   "Range_HName": "पश्चिम सिलवानी ",
+   "STD": 7484,
+   "PhoneNO": 240171,
+   "MobileNO": 9424790819,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 41,
+   "Range_EName": "East Silwani",
+   "Range_HName": "पूर्व सिलवानी ",
+   "STD": 7484,
+   "PhoneNO": 240170,
+   "MobileNO": 9424790635,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 42,
+   "Range_EName": "Deori",
+   "Range_HName": "देवरी ",
+   "STD": 7485,
+   "PhoneNO": 255529,
+   "MobileNO": 9977515644,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 43,
+   "Range_EName": "Jaithari",
+   "Range_HName": "जैतहरी ",
+   "STD": 7484,
+   "PhoneNO": 284493,
+   "MobileNO": 9993360163,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 44,
+   "Range_EName": "Goharganj",
+   "Range_HName": "गौहरगंज ",
+   "STD": 7480,
+   "PhoneNO": 274465,
+   "MobileNO": 9424790719,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 45,
+   "Range_EName": "Chiklod",
+   "Range_HName": "चिकलोद ",
+   "STD": 7480,
+   "PhoneNO": 263218,
+   "MobileNO": 9424790720,
+   "FAXNo": "            ",
+   "EMAIL": "rochicklod@mp.gov.in"
+ },
+ {
+   "Sr.No": 46,
+   "Range_EName": "Sultanpur",
+   "Range_HName": "सुल्तानपुर ",
+   "STD": 7480,
+   "PhoneNO": 243362,
+   "MobileNO": 9424790721,
+   "FAXNo": "            ",
+   "EMAIL": "rosultanpur@mp.gov.in"
+ },
+ {
+   "Sr.No": 47,
+   "Range_EName": "Chilwaha",
+   "Range_HName": "चिलवाहा ",
+   "STD": 7480,
+   "PhoneNO": 243362,
+   "MobileNO": 9424790722,
+   "FAXNo": "            ",
+   "EMAIL": "rochilwaha@mp.gov.in"
+ },
+ {
+   "Sr.No": 48,
+   "Range_EName": "Dahod",
+   "Range_HName": "दाहोद ",
+   "STD": 7480,
+   "PhoneNO": 281800,
+   "MobileNO": 9424790715,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 49,
+   "Range_EName": "Gamerange Gandhisagar",
+   "Range_HName": "गेंमरेंज गांधीसागर ",
+   "STD": 7427,
+   "PhoneNO": 237102,
+   "MobileNO": 9424794946,
+   "FAXNo": "237102",
+   "EMAIL": "rogandhisagar@mp.gov.in"
+ },
+ {
+   "Sr.No": 50,
+   "Range_EName": "Neemuch",
+   "Range_HName": "नीमच",
+   "STD": 7423,
+   "PhoneNO": 232003,
+   "MobileNO": 9424794837,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 51,
+   "Range_EName": "Jawad",
+   "Range_HName": "जावद ",
+   "STD": 7420,
+   "PhoneNO": 253288,
+   "MobileNO": 9424794842,
+   "FAXNo": "            ",
+   "EMAIL": "rojawad@mp.gov.in"
+ },
+ {
+   "Sr.No": 52,
+   "Range_EName": "Ratangarh",
+   "Range_HName": "रतनगढ़ ",
+   "STD": 7420,
+   "PhoneNO": 253251,
+   "MobileNO": 9424794853,
+   "FAXNo": "            ",
+   "EMAIL": "roratangarh@mp.gov.in"
+ },
+ {
+   "Sr.No": 53,
+   "Range_EName": "Manasa",
+   "Range_HName": "मनासा ",
+   "STD": 7421,
+   "PhoneNO": 242065,
+   "MobileNO": 9424794865,
+   "FAXNo": "            ",
+   "EMAIL": "romanasa@mp.gov.in"
+ },
+ {
+   "Sr.No": 54,
+   "Range_EName": "Rampura",
+   "Range_HName": "रामपुरा ",
+   "STD": 7421,
+   "PhoneNO": 238177,
+   "MobileNO": 9424794876,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 55,
+   "Range_EName": "Dewas",
+   "Range_HName": "देवास ",
+   "STD": 7272,
+   "PhoneNO": 224077,
+   "MobileNO": 9424792128,
+   "FAXNo": "            ",
+   "EMAIL": "rodewas1@mp.gov.in"
+ },
+ {
+   "Sr.No": 56,
+   "Range_EName": "Panigaon",
+   "Range_HName": "पानीगांव ",
+   "STD": 7273,
+   "PhoneNO": 287174,
+   "MobileNO": 9424792154,
+   "FAXNo": "            ",
+   "EMAIL": "ropanigoan@mp.gov.in"
+ },
+ {
+   "Sr.No": 57,
+   "Range_EName": "Kannod",
+   "Range_HName": "कन्नौद ",
+   "STD": 7273,
+   "PhoneNO": 222046,
+   "MobileNO": 8120571139,
+   "FAXNo": "            ",
+   "EMAIL": "rokannod@mp.gov.in"
+ },
+ {
+   "Sr.No": 58,
+   "Range_EName": "Satwas",
+   "Range_HName": "सतवास ",
+   "STD": 7273,
+   "PhoneNO": 263571,
+   "MobileNO": 9424792220,
+   "FAXNo": "            ",
+   "EMAIL": "rosatwas@mp.gov.in"
+ },
+ {
+   "Sr.No": 59,
+   "Range_EName": "Kantaphod",
+   "Range_HName": "कांटाफोड़ ",
+   "STD": 7273,
+   "PhoneNO": 262142,
+   "MobileNO": 9424792210,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 60,
+   "Range_EName": "Khategoan",
+   "Range_HName": "खातेगांव",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 61,
+   "Range_EName": "Bagli",
+   "Range_HName": "बागली ",
+   "STD": 7271,
+   "PhoneNO": 275894,
+   "MobileNO": 9424792185,
+   "FAXNo": "            ",
+   "EMAIL": "robagli@mp.gov.in"
+ },
+ {
+   "Sr.No": 62,
+   "Range_EName": "Punjapura",
+   "Range_HName": "पूंजापुरा ",
+   "STD": 7271,
+   "PhoneNO": 277455,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 63,
+   "Range_EName": "Udaynagar",
+   "Range_HName": "उदयनगर ",
+   "STD": 7271,
+   "PhoneNO": 277725,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 64,
+   "Range_EName": "Jinwani",
+   "Range_HName": "जिनवानी",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 65,
+   "Range_EName": "Kheoni",
+   "Range_HName": "खिवनी ",
+   "STD": 7273,
+   "PhoneNO": 222542,
+   "MobileNO": 9424792201,
+   "FAXNo": "            ",
+   "EMAIL": "rokheoni@mp.gov.in"
+ },
+ {
+   "Sr.No": 66,
+   "Range_EName": "Kisli",
+   "Range_HName": "किसली ",
+   "STD": 7649,
+   "PhoneNO": 277238,
+   "MobileNO": 9424792966,
+   "FAXNo": "251266      ",
+   "EMAIL": "fdkanha@mp.gov.in"
+ },
+ {
+   "Sr.No": 67,
+   "Range_EName": "Kanha",
+   "Range_HName": "कान्हा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792011,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 68,
+   "Range_EName": "Phen Sanctuary",
+   "Range_HName": "फेन अभयारण्य",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 69,
+   "Range_EName": "Sarhi",
+   "Range_HName": "सरही",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792013,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 70,
+   "Range_EName": "Mukki",
+   "Range_HName": "मुक्की ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792010,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 71,
+   "Range_EName": "Bhaisanghat",
+   "Range_HName": "भैसानघाट ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793015,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 72,
+   "Range_EName": "Supkhar",
+   "Range_HName": "सूपखार",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 73,
+   "Range_EName": "Sijhora",
+   "Range_HName": "सिझौरा ",
+   "STD": 7648,
+   "PhoneNO": 289472,
+   "MobileNO": 9424793017,
+   "FAXNo": "            ",
+   "EMAIL": "rosijhora@mp.gov.in"
+ },
+ {
+   "Sr.No": 74,
+   "Range_EName": "Khatia",
+   "Range_HName": "खटिया ",
+   "STD": 7649,
+   "PhoneNO": 277290,
+   "MobileNO": 9424793016,
+   "FAXNo": "            ",
+   "EMAIL": "rokhatia@mp.gov.in"
+ },
+ {
+   "Sr.No": 75,
+   "Range_EName": "Garhi",
+   "Range_HName": "गढ़ी ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 76,
+   "Range_EName": "Motinala",
+   "Range_HName": "मोतीनाला ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 77,
+   "Range_EName": "Khapa",
+   "Range_HName": "खापा ",
+   "STD": 7636,
+   "PhoneNO": 256631,
+   "MobileNO": 9424793019,
+   "FAXNo": "            ",
+   "EMAIL": "rokhapa@mp.gov.in"
+ },
+ {
+   "Sr.No": 78,
+   "Range_EName": "Samnapur",
+   "Range_HName": "समनापुर ",
+   "STD": 7637,
+   "PhoneNO": 226373,
+   "MobileNO": 9424793018,
+   "FAXNo": "            ",
+   "EMAIL": "rosamnapur@mp.gov.in"
+ },
+ {
+   "Sr.No": 79,
+   "Range_EName": "Chandranagar",
+   "Range_HName": "चन्द्रनगर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 80,
+   "Range_EName": "Kishangarh",
+   "Range_HName": "किशनगढ़ ",
+   "STD": 7608,
+   "PhoneNO": 253417,
+   "MobileNO": 9424791078,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 81,
+   "Range_EName": "Madla",
+   "Range_HName": "मड़ला ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791250,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 82,
+   "Range_EName": "Gangau Sanctuary",
+   "Range_HName": "गंगउ अभयारण्य",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 83,
+   "Range_EName": "Ken Ghariyal Sanctuary",
+   "Range_HName": "केन घडियाल",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 84,
+   "Range_EName": "Gahrighat",
+   "Range_HName": "गहरीघाट",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 85,
+   "Range_EName": "Hinouta",
+   "Range_HName": "हिनौता ",
+   "STD": 7732,
+   "PhoneNO": 271251,
+   "MobileNO": 9424791249,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 86,
+   "Range_EName": "Panna Core",
+   "Range_HName": "पन्ना कोर",
+   "STD": 7732,
+   "PhoneNO": null,
+   "MobileNO": 9424791248,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 87,
+   "Range_EName": "Gumtara Core",
+   "Range_HName": "गुमतरा कोर",
+   "STD": 7162,
+   "PhoneNO": 259197,
+   "MobileNO": 9424792610,
+   "FAXNo": "            ",
+   "EMAIL": "roGumtara@mp.gov.in"
+ },
+ {
+   "Sr.No": 88,
+   "Range_EName": "Karmajhiri Core",
+   "Range_HName": "कर्माझिरी कोर",
+   "STD": 7695,
+   "PhoneNO": 297015,
+   "MobileNO": 9424794148,
+   "FAXNo": "            ",
+   "EMAIL": "roKarmajhiri@mp.gov.in"
+ },
+ {
+   "Sr.No": 89,
+   "Range_EName": "Kurai Core",
+   "Range_HName": "कुरई कोर",
+   "STD": 7695,
+   "PhoneNO": 246405,
+   "MobileNO": 9424792609,
+   "FAXNo": "            ",
+   "EMAIL": "rowlKurai@mp.gov.in"
+ },
+ {
+   "Sr.No": 90,
+   "Range_EName": "Ari Buffer",
+   "Range_HName": "अरी बफर",
+   "STD": 7692,
+   "PhoneNO": 239525,
+   "MobileNO": 9179703571,
+   "FAXNo": "7692222989",
+   "EMAIL": "ROAriBuffer@mp.gov.in"
+ },
+ {
+   "Sr.No": 91,
+   "Range_EName": "Rukhad Buffer",
+   "Range_HName": "रुखड बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792614,
+   "FAXNo": "            ",
+   "EMAIL": "RORukhadBuffer@mp.gov.in"
+ },
+ {
+   "Sr.No": 92,
+   "Range_EName": "Ghatkohka Buffer",
+   "Range_HName": "घाटकोखा बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": "ROGhatkohkaBuffer@mp.gov.in"
+ },
+ {
+   "Sr.No": 93,
+   "Range_EName": "Khawasa Buffer",
+   "Range_HName": "खवासा बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": "ROKhawasaBuffer@mp.gov.in"
+ },
+ {
+   "Sr.No": 94,
+   "Range_EName": "Khamarpani Buffer",
+   "Range_HName": "खमरपानी बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": "ROKhamarpaniBuffer@mp.gov.in"
+ },
+ {
+   "Sr.No": 95,
+   "Range_EName": "Kumbhapani Buffer",
+   "Range_HName": "कुंभपानी बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": "ROKumbhpaniBuffer@mp.gov.in"
+ },
+ {
+   "Sr.No": 96,
+   "Range_EName": "Bori",
+   "Range_HName": "बोरी",
+   "STD": 7578,
+   "PhoneNO": 252824,
+   "MobileNO": 9424792106,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 97,
+   "Range_EName": "Churna (Bhaura)",
+   "Range_HName": "चूरना(भौंरा)",
+   "STD": 7575,
+   "PhoneNO": 278279,
+   "MobileNO": 9424792109,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 98,
+   "Range_EName": "West Pachmarhi",
+   "Range_HName": "पशिचम पचमढी",
+   "STD": 7578,
+   "PhoneNO": 252452,
+   "MobileNO": 9424792107,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 99,
+   "Range_EName": "East Pachmarhi",
+   "Range_HName": "पूर्व पचमढी",
+   "STD": 7576,
+   "PhoneNO": 224528,
+   "MobileNO": 9424792108,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 100,
+   "Range_EName": "Kamti",
+   "Range_HName": "कामती",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 101,
+   "Range_EName": "Matkuli",
+   "Range_HName": "मटकुली",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 102,
+   "Range_EName": "Tawa Buffer",
+   "Range_HName": "तवा बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 103,
+   "Range_EName": "Bagra Buffer",
+   "Range_HName": "बागडा बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 104,
+   "Range_EName": "Denwa Buffer",
+   "Range_HName": "देनवा बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 105,
+   "Range_EName": "Pipariya Buffer",
+   "Range_HName": "पिपरिया बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 106,
+   "Range_EName": "Kallwah Core",
+   "Range_HName": "कलवाह कोर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 107,
+   "Range_EName": "Khitauli Core",
+   "Range_HName": "खितोली कोर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 108,
+   "Range_EName": "Tala Core",
+   "Range_HName": "ताला कोर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 109,
+   "Range_EName": "Magdhi Core",
+   "Range_HName": "मगधी कोर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 110,
+   "Range_EName": "Pataur Core",
+   "Range_HName": "पतौर कोर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 111,
+   "Range_EName": "Manpur Buffer",
+   "Range_HName": "मानपुर बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 112,
+   "Range_EName": "Dhamokhar Buffer",
+   "Range_HName": "धमोखर बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 113,
+   "Range_EName": "Panpatha Buffer",
+   "Range_HName": "पनपथा बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 114,
+   "Range_EName": "South",
+   "Range_HName": "दक्षिण",
+   "STD": 7492,
+   "PhoneNO": 220347,
+   "MobileNO": 9424794807,
+   "FAXNo": "            ",
+   "EMAIL": "ro_south@mp.gov.in"
+ },
+ {
+   "Sr.No": 115,
+   "Range_EName": "North",
+   "Range_HName": "उत्तर ",
+   "STD": 7492,
+   "PhoneNO": 231528,
+   "MobileNO": 9424794826,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 116,
+   "Range_EName": "Madhya",
+   "Range_HName": "मध्य",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794818,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 117,
+   "Range_EName": "East",
+   "Range_HName": "पूर्व ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794834,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 118,
+   "Range_EName": "Bagdara",
+   "Range_HName": "बगदरा ",
+   "STD": 7822,
+   "PhoneNO": 264779,
+   "MobileNO": 9424793682,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 119,
+   "Range_EName": "Gopala",
+   "Range_HName": "गोपाला",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 120,
+   "Range_EName": "Bastua",
+   "Range_HName": "बस्तुआ ",
+   "STD": 7803,
+   "PhoneNO": 280909,
+   "MobileNO": 9424793678,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 121,
+   "Range_EName": "Dubari Sanctuary",
+   "Range_HName": "दुबरी अभयारण्य",
+   "STD": 7803,
+   "PhoneNO": 280908,
+   "MobileNO": 9424793674,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 122,
+   "Range_EName": "Mohan",
+   "Range_HName": "मोहन ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793663,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 123,
+   "Range_EName": "Pondi",
+   "Range_HName": "पोंड़ी ",
+   "STD": 7803,
+   "PhoneNO": 280907,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 124,
+   "Range_EName": "Tamsar Buffer",
+   "Range_HName": "तमसर बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 125,
+   "Range_EName": "Beohari Buffer",
+   "Range_HName": "ब्याहारी बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 126,
+   "Range_EName": "Bhuimand Buffer",
+   "Range_HName": "भूमंड बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 127,
+   "Range_EName": "Madwas Buffer",
+   "Range_HName": "मडवास बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 128,
+   "Range_EName": "East Agra",
+   "Range_HName": "पूर्व अगरा",
+   "STD": 7528,
+   "PhoneNO": 266539,
+   "MobileNO": 9424791946,
+   "FAXNo": "            ",
+   "EMAIL": "roagraeast@mp.gov.in"
+ },
+ {
+   "Sr.No": 129,
+   "Range_EName": "West Agra",
+   "Range_HName": "पश्चिम अगरा",
+   "STD": 7535,
+   "PhoneNO": 268577,
+   "MobileNO": 9424791832,
+   "FAXNo": "            ",
+   "EMAIL": "roagrawest@mp.gov.in"
+ },
+ {
+   "Sr.No": 130,
+   "Range_EName": "North Sironi",
+   "Range_HName": "उत्तर सिरोनी",
+   "STD": 7535,
+   "PhoneNO": 268277,
+   "MobileNO": 9424791940,
+   "FAXNo": "            ",
+   "EMAIL": "rosironinorth@mpforest.or"
+ },
+ {
+   "Sr.No": 131,
+   "Range_EName": "South Sironi",
+   "Range_HName": "दक्षिण सिरोनी",
+   "STD": 7530,
+   "PhoneNO": 290710,
+   "MobileNO": 9424791947,
+   "FAXNo": "            ",
+   "EMAIL": "rosironisouth@mpforest.or"
+ },
+ {
+   "Sr.No": 132,
+   "Range_EName": "East Palpur",
+   "Range_HName": "पूर्व पालपुर",
+   "STD": 7492,
+   "PhoneNO": 244313,
+   "MobileNO": 9424791942,
+   "FAXNo": "            ",
+   "EMAIL": "ropalpureast@mp.gov.in"
+ },
+ {
+   "Sr.No": 133,
+   "Range_EName": "West Palpur",
+   "Range_HName": "पश्चिम पालपुर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791829,
+   "FAXNo": "            ",
+   "EMAIL": "ropalpurwest@mp.gov.in"
+ },
+ {
+   "Sr.No": 134,
+   "Range_EName": "East Moravan",
+   "Range_HName": "पूर्व मोरावन",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791943,
+   "FAXNo": "            ",
+   "EMAIL": "romoravaneast@mpforest.or"
+ },
+ {
+   "Sr.No": 135,
+   "Range_EName": "West Moravan",
+   "Range_HName": "पश्चिम मोरावन",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791944,
+   "FAXNo": "            ",
+   "EMAIL": "romoravanwest@mpforest.or"
+ },
+ {
+   "Sr.No": 136,
+   "Range_EName": "North Ukwa (P)",
+   "Range_HName": "उत्तर उकवा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 137,
+   "Range_EName": "South Ukwa (P)",
+   "Range_HName": "दक्षिण उकवा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 138,
+   "Range_EName": "North Lamta (P)",
+   "Range_HName": "उत्तर लामटा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 139,
+   "Range_EName": "South Lamta (P)",
+   "Range_HName": "दक्षिण लामटा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 140,
+   "Range_EName": "East Baihar (P)",
+   "Range_HName": "पूर्व वैहर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 141,
+   "Range_EName": "West Baihar (P)",
+   "Range_HName": "पश्चिम वैहर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 142,
+   "Range_EName": "Birsa (P)",
+   "Range_HName": "विरसा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 143,
+   "Range_EName": "Balaghat (P)",
+   "Range_HName": "बालाघाट (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 144,
+   "Range_EName": "Laghur(P)",
+   "Range_HName": "लोघुर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 145,
+   "Range_EName": "Waraseoni (P)",
+   "Range_HName": "वारासिवनी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 146,
+   "Range_EName": "East Lanjhi (P)",
+   "Range_HName": "पूर्व लांजी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 147,
+   "Range_EName": "West Lanjhi (P)",
+   "Range_HName": "पश्चिम लांजी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 148,
+   "Range_EName": "Hatta (P)",
+   "Range_HName": "हट्‌टा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 149,
+   "Range_EName": "Kirnapur (P)",
+   "Range_HName": "किरनापुर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 150,
+   "Range_EName": "Gawasen (P)",
+   "Range_HName": "गवासेन (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 151,
+   "Range_EName": "Bhaura (P)",
+   "Range_HName": "भौंरा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 152,
+   "Range_EName": "Betul (P)",
+   "Range_HName": "बैतूल (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 153,
+   "Range_EName": "Shahpur (P)",
+   "Range_HName": "शाहपुर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 154,
+   "Range_EName": "Chicholi (P)",
+   "Range_HName": "चिचौली (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 155,
+   "Range_EName": "Tawdi (P)",
+   "Range_HName": "तावड़ी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 156,
+   "Range_EName": "Multai (P)",
+   "Range_HName": "मुलताई (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 157,
+   "Range_EName": "Tapti (P)",
+   "Range_HName": "ताप्ती (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 158,
+   "Range_EName": "Bhainsdehi (P)",
+   "Range_HName": "भैंसदेई (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 159,
+   "Range_EName": "Raisen (P)",
+   "Range_HName": "रायसेन(उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 160,
+   "Range_EName": "Gauharganj (P)",
+   "Range_HName": "गौहरगंज (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 161,
+   "Range_EName": "Garhi (P)",
+   "Range_HName": "गढ़ी(उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 162,
+   "Range_EName": "Silwani (P)",
+   "Range_HName": "सिलवानी(उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 163,
+   "Range_EName": "Jaithari (P)",
+   "Range_HName": "जैथारी(उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 164,
+   "Range_EName": "Bijawar (P)",
+   "Range_HName": "बिजावर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 165,
+   "Range_EName": "Buxwaha (P)",
+   "Range_HName": "बक्स्वाहा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 166,
+   "Range_EName": "Bada Malehra (P)",
+   "Range_HName": "बड़ामलहरा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 167,
+   "Range_EName": "Chhindwara (P)",
+   "Range_HName": "छिंदवाडा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 168,
+   "Range_EName": "Bichhua (P)",
+   "Range_HName": "बिछुआ (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 169,
+   "Range_EName": "Delakhari (P)",
+   "Range_HName": "देलाखारी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 170,
+   "Range_EName": "Lawaghoghari (P)",
+   "Range_HName": "लावाघोघरी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 171,
+   "Range_EName": "Amarwara (P)",
+   "Range_HName": "अमरवाडा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 172,
+   "Range_EName": "Harrai (P)",
+   "Range_HName": "हर्रई (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 173,
+   "Range_EName": "Batkakhapa (P)",
+   "Range_HName": "बटकाखापा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 174,
+   "Range_EName": "Kanhan (P)",
+   "Range_HName": "कन्हान (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 175,
+   "Range_EName": "Saunsar (P)",
+   "Range_HName": "सौंसर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 176,
+   "Range_EName": "Itarsi (P)",
+   "Range_HName": "इटारसी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 177,
+   "Range_EName": "Shogpur (P)",
+   "Range_HName": "सोहागपुर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 178,
+   "Range_EName": "Banapura (P)",
+   "Range_HName": "बानापुरा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 179,
+   "Range_EName": "Handia (P)",
+   "Range_HName": "हंडिया (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424795922,
+   "FAXNo": "            ",
+   "EMAIL": "ROHandiaP@mp.gov.in"
+ },
+ {
+   "Sr.No": 180,
+   "Range_EName": "Rehatgaon (P)",
+   "Range_HName": "रेहटगाँव (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424795917,
+   "FAXNo": "            ",
+   "EMAIL": "RORahatgaonP@mp.gov.in"
+ },
+ {
+   "Sr.No": 181,
+   "Range_EName": "Temagaon (P)",
+   "Range_HName": "टेमागाँव (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424795906,
+   "FAXNo": "            ",
+   "EMAIL": "ROTemagaonP@mp.gov.in"
+ },
+ {
+   "Sr.No": 182,
+   "Range_EName": "Borpani (P)",
+   "Range_HName": "बोरपानी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424795909,
+   "FAXNo": "            ",
+   "EMAIL": "ROBorpaniP@mp.gov.in"
+ },
+ {
+   "Sr.No": 183,
+   "Range_EName": "Makrai (P)",
+   "Range_HName": "मकडाई (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424795908,
+   "FAXNo": "            ",
+   "EMAIL": "ROMakraiP@mp.gov.in"
+ },
+ {
+   "Sr.No": 184,
+   "Range_EName": "Magradha (P)",
+   "Range_HName": "मगरधा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424795907,
+   "FAXNo": "            ",
+   "EMAIL": "ROMagardhaP@mp.gov.in"
+ },
+ {
+   "Sr.No": 185,
+   "Range_EName": "Mandla (P)",
+   "Range_HName": "मंडला (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 186,
+   "Range_EName": "Mahrajour (P)",
+   "Range_HName": "महाराजपुर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 187,
+   "Range_EName": "Mohgaon (P)",
+   "Range_HName": "मोहगांव (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 188,
+   "Range_EName": "Anjaniya (P)",
+   "Range_HName": "अंजनिया (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 189,
+   "Range_EName": "Motinala(P)",
+   "Range_HName": "मोतीनाला (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 190,
+   "Range_EName": "Mawai (P)",
+   "Range_HName": "मवई (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 191,
+   "Range_EName": "Barela (P)",
+   "Range_HName": "वरेला (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 192,
+   "Range_EName": "Kalpi (P)",
+   "Range_HName": "कालपी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 193,
+   "Range_EName": "Samnapur (P)",
+   "Range_HName": "समनापुर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 194,
+   "Range_EName": "Dindori (P)",
+   "Range_HName": "डिण्डोरी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 195,
+   "Range_EName": "Mehandwani (P)",
+   "Range_HName": "मेंहदवानी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 196,
+   "Range_EName": "East Karanjiya (P)",
+   "Range_HName": "पूर्व करंजिया (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 197,
+   "Range_EName": "West Karanjiya (P)",
+   "Range_HName": "पश्चिम करंजिया (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 198,
+   "Range_EName": "Bajag (P)",
+   "Range_HName": "वाजाग (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 199,
+   "Range_EName": "East Kalibhit (P)",
+   "Range_HName": "पूर्व कालीभीत (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 200,
+   "Range_EName": "Aanwliya (P)",
+   "Range_HName": "आंवलिया (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 201,
+   "Range_EName": "Piplod Amulla (P)",
+   "Range_HName": "पिपलौद अमुला(उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 202,
+   "Range_EName": "West Kalibhit (P)",
+   "Range_HName": "पश्चिम कालीभीत (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 203,
+   "Range_EName": "Chandgarh(P)",
+   "Range_HName": "चांदगढ़ (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 204,
+   "Range_EName": "Barwaha (P)",
+   "Range_HName": "बड़वाहा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 205,
+   "Range_EName": "Khandwa (P)",
+   "Range_HName": "खण्डवा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 206,
+   "Range_EName": "Burhanpur (P)",
+   "Range_HName": "बुरहानपुर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 207,
+   "Range_EName": "Madwas (P)",
+   "Range_HName": "मड़वास (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 208,
+   "Range_EName": "Mohan (P)",
+   "Range_HName": "मोहन (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 209,
+   "Range_EName": "Khurai (P)",
+   "Range_HName": "खुरई (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 210,
+   "Range_EName": "Narsinghpur (P)",
+   "Range_HName": "नरसिंहपुर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 211,
+   "Range_EName": "Gadarwara (P)",
+   "Range_HName": "गाड़रवाडा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 212,
+   "Range_EName": "Gotegoan (P)",
+   "Range_HName": "गोटेगाँव (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 213,
+   "Range_EName": "Barman (P)",
+   "Range_HName": "बरमान (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 214,
+   "Range_EName": "Dhuma (P)",
+   "Range_HName": "धूमा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 215,
+   "Range_EName": "Kewlari (P)",
+   "Range_HName": "केवलारी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 216,
+   "Range_EName": "Ghansor (P)",
+   "Range_HName": "घनसोर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 217,
+   "Range_EName": "Kurai (P)",
+   "Range_HName": "कुरई (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 218,
+   "Range_EName": "Ari (P)",
+   "Range_HName": "अरी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 219,
+   "Range_EName": "Seoni (P)",
+   "Range_HName": "सिवनी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 220,
+   "Range_EName": "Bijwad (P)",
+   "Range_HName": "विजवाड़ (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 221,
+   "Range_EName": "Kannod (P)",
+   "Range_HName": "कन्नौद (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 222,
+   "Range_EName": "Kantafod (P)",
+   "Range_HName": "काँटाफोड (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 223,
+   "Range_EName": "Udainagar (P)",
+   "Range_HName": "उदयनगर (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 224,
+   "Range_EName": "Pipri (P)",
+   "Range_HName": "पीपरी (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 225,
+   "Range_EName": "Satwas (P)",
+   "Range_HName": "सतवास (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 226,
+   "Range_EName": "Punjapuara (P)",
+   "Range_HName": "पुंजापुरा (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 227,
+   "Range_EName": "Manjhouli (P)",
+   "Range_HName": "मझौली (उ.)",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 228,
+   "Range_EName": "Bineka",
+   "Range_HName": "बिनेका ",
+   "STD": 7480,
+   "PhoneNO": 281802,
+   "MobileNO": 9424790718,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 229,
+   "Range_EName": "Barkhera",
+   "Range_HName": "बरखेड़ा ",
+   "STD": 7480,
+   "PhoneNO": 281801,
+   "MobileNO": 9424790717,
+   "FAXNo": "            ",
+   "EMAIL": "robarkhera@mp.gov.in"
+ },
+ {
+   "Sr.No": 230,
+   "Range_EName": "Bari",
+   "Range_HName": "बाड़ी ",
+   "STD": 7486,
+   "PhoneNO": 263465,
+   "MobileNO": 9424790723,
+   "FAXNo": "9.57E+11",
+   "EMAIL": "robari@mp.gov.in"
+ },
+ {
+   "Sr.No": 231,
+   "Range_EName": "Bamhori",
+   "Range_HName": "बम्हौरी ",
+   "STD": 7484,
+   "PhoneNO": null,
+   "MobileNO": 9424790724,
+   "FAXNo": "            ",
+   "EMAIL": "robamhori@mp.gov.in"
+ },
+ {
+   "Sr.No": 232,
+   "Range_EName": "Sehore",
+   "Range_HName": "सीहोर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424790852,
+   "FAXNo": "            ",
+   "EMAIL": "rosehore@mp.gov.in"
+ },
+ {
+   "Sr.No": 233,
+   "Range_EName": "Veerpura",
+   "Range_HName": "वीरपुरा ",
+   "STD": 755,
+   "PhoneNO": 2664550,
+   "MobileNO": 9425303052,
+   "FAXNo": "223815      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 234,
+   "Range_EName": "Icchawar",
+   "Range_HName": "इछावर ",
+   "STD": 7561,
+   "PhoneNO": 280245,
+   "MobileNO": 9424790872,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 235,
+   "Range_EName": "Ashta",
+   "Range_HName": "आष्टा ",
+   "STD": 7560,
+   "PhoneNO": 280377,
+   "MobileNO": 9827663917,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 236,
+   "Range_EName": "Ladkui",
+   "Range_HName": "लाड़कुई ",
+   "STD": 7563,
+   "PhoneNO": 239399,
+   "MobileNO": 9424790926,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 237,
+   "Range_EName": "Rehti",
+   "Range_HName": "रेहटी ",
+   "STD": 7564,
+   "PhoneNO": 239420,
+   "MobileNO": 9424790940,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 238,
+   "Range_EName": "Budhni",
+   "Range_HName": "बुधनी ",
+   "STD": 7564,
+   "PhoneNO": 280803,
+   "MobileNO": 9424790909,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 239,
+   "Range_EName": "Vidisha",
+   "Range_HName": "विदिशा ",
+   "STD": 7592,
+   "PhoneNO": 233215,
+   "MobileNO": 9424790952,
+   "FAXNo": "            ",
+   "EMAIL": "rovidisha@mp.gov.in"
+ },
+ {
+   "Sr.No": 240,
+   "Range_EName": "Gyaraspur",
+   "Range_HName": "ग्यारसपुर ",
+   "STD": 7596,
+   "PhoneNO": 263036,
+   "MobileNO": 9424791019,
+   "FAXNo": "            ",
+   "EMAIL": "rogyaraspur@mp.gov.in"
+ },
+ {
+   "Sr.No": 241,
+   "Range_EName": "Ganj Basoda",
+   "Range_HName": "गंजबासौदा ",
+   "STD": 7594,
+   "PhoneNO": 224306,
+   "MobileNO": 9424790972,
+   "FAXNo": "            ",
+   "EMAIL": "roganjbasoda@mp.gov.in"
+ },
+ {
+   "Sr.No": 242,
+   "Range_EName": "Shamshabad",
+   "Range_HName": "शमशाबाद ",
+   "STD": 7595,
+   "PhoneNO": 257410,
+   "MobileNO": 9424791017,
+   "FAXNo": "            ",
+   "EMAIL": "roshamshabad@mp.gov.in"
+ },
+ {
+   "Sr.No": 243,
+   "Range_EName": "Sironj",
+   "Range_HName": "सिरोंज ",
+   "STD": 7591,
+   "PhoneNO": 252880,
+   "MobileNO": 9424790992,
+   "FAXNo": "            ",
+   "EMAIL": "rosironj@mp.gov.in"
+ },
+ {
+   "Sr.No": 244,
+   "Range_EName": "North Lateri",
+   "Range_HName": "उत्तर लटेरी ",
+   "STD": 7590,
+   "PhoneNO": 276318,
+   "MobileNO": 9424791001,
+   "FAXNo": "            ",
+   "EMAIL": "ronorthlateri@mpforest"
+ },
+ {
+   "Sr.No": 245,
+   "Range_EName": "South Lateri",
+   "Range_HName": "दक्षिण लटेरी ",
+   "STD": 7590,
+   "PhoneNO": 276320,
+   "MobileNO": 9424791020,
+   "FAXNo": "            ",
+   "EMAIL": "rosouthlateri@mpforest"
+ },
+ {
+   "Sr.No": 246,
+   "Range_EName": "Rajgarh",
+   "Range_HName": "राजगढ़ ",
+   "STD": 7372,
+   "PhoneNO": 0,
+   "MobileNO": 9424790803,
+   "FAXNo": "",
+   "EMAIL": "rorajgarh@mp.gov.in"
+ },
+ {
+   "Sr.No": 247,
+   "Range_EName": "Narsinghgarh",
+   "Range_HName": "नरसिंहगढ़ ",
+   "STD": 7375,
+   "PhoneNO": 245870,
+   "MobileNO": 9424790804,
+   "FAXNo": "",
+   "EMAIL": "ronarsingagarh@mp.gov.in"
+ },
+ {
+   "Sr.No": 248,
+   "Range_EName": "Chhatarpur",
+   "Range_HName": "छतरपुर ",
+   "STD": 7682,
+   "PhoneNO": 241324,
+   "MobileNO": 9424791053,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 249,
+   "Range_EName": "Loundi",
+   "Range_HName": "लौड़ी ",
+   "STD": 7686,
+   "PhoneNO": 274714,
+   "MobileNO": 9424791064,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 250,
+   "Range_EName": "Bijawar",
+   "Range_HName": "बिजावर ",
+   "STD": 7608,
+   "PhoneNO": 253431,
+   "MobileNO": 9424791071,
+   "FAXNo": "            ",
+   "EMAIL": "ro.bijawar@mp.gov.in"
+ },
+ {
+   "Sr.No": 251,
+   "Range_EName": "Bajna",
+   "Range_HName": "बाजना ",
+   "STD": 7608,
+   "PhoneNO": 253417,
+   "MobileNO": 9424791078,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 252,
+   "Range_EName": "Bada Malehra",
+   "Range_HName": "बड़ामलहरा ",
+   "STD": 7689,
+   "PhoneNO": 252559,
+   "MobileNO": 9424791094,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 253,
+   "Range_EName": "Buxwaha",
+   "Range_HName": "बक्स्वाहा ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791083,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 254,
+   "Range_EName": "Tikamgarh",
+   "Range_HName": "टीकमगढ ",
+   "STD": 7683,
+   "PhoneNO": 244884,
+   "MobileNO": 9424791360,
+   "FAXNo": "            ",
+   "EMAIL": "rotikamgarh@mp.gov.in"
+ },
+ {
+   "Sr.No": 255,
+   "Range_EName": "Jatara",
+   "Range_HName": "जतारा ",
+   "STD": 7681,
+   "PhoneNO": 254793,
+   "MobileNO": 9424791361,
+   "FAXNo": "            ",
+   "EMAIL": "rojatara@mp.gov.in"
+ },
+ {
+   "Sr.No": 256,
+   "Range_EName": "Baldeogarh",
+   "Range_HName": "बलदेवगढ",
+   "STD": 7684,
+   "PhoneNO": 275020,
+   "MobileNO": 9479808329,
+   "FAXNo": "            ",
+   "EMAIL": "komallodhi2013@mp.gov.in"
+ },
+ {
+   "Sr.No": 257,
+   "Range_EName": "Niwari",
+   "Range_HName": "निवाडी ",
+   "STD": 7680,
+   "PhoneNO": 232417,
+   "MobileNO": 9644793493,
+   "FAXNo": "            ",
+   "EMAIL": "roniwari@mp.gov.in"
+ },
+ {
+   "Sr.No": 258,
+   "Range_EName": "Orchha",
+   "Range_HName": "ओरछा ",
+   "STD": 7680,
+   "PhoneNO": 252396,
+   "MobileNO": 9424791380,
+   "FAXNo": "            ",
+   "EMAIL": "roorchha@mp.gov.in"
+ },
+ {
+   "Sr.No": 259,
+   "Range_EName": "Game Range Orchha",
+   "Range_HName": "अभ्यारण ओरछा ",
+   "STD": 7680,
+   "PhoneNO": 252395,
+   "MobileNO": 9424791390,
+   "FAXNo": "            ",
+   "EMAIL": "rogameorchha@mp.gov.in"
+ },
+ {
+   "Sr.No": 260,
+   "Range_EName": "Ajaygarh",
+   "Range_HName": "अजयगढ़ ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791169,
+   "FAXNo": "            ",
+   "EMAIL": "roajaygarh@mp.gov.in"
+ },
+ {
+   "Sr.No": 261,
+   "Range_EName": "Dharampur",
+   "Range_HName": "धरमपुर ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791187,
+   "FAXNo": "            ",
+   "EMAIL": "rodharampur@mp.gov.in"
+ },
+ {
+   "Sr.No": 262,
+   "Range_EName": "Vishramganj",
+   "Range_HName": "विश्रामगंज ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791155,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 263,
+   "Range_EName": "Panna",
+   "Range_HName": "पन्ना ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791152,
+   "FAXNo": "            ",
+   "EMAIL": "ropanna@mp.gov.in"
+ },
+ {
+   "Sr.No": 264,
+   "Range_EName": "Devendranagar",
+   "Range_HName": "देवेन्द्रनगर ",
+   "STD": 7732,
+   "PhoneNO": 272300,
+   "MobileNO": 9424791199,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 265,
+   "Range_EName": "Saleha",
+   "Range_HName": "सलेहा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791321,
+   "FAXNo": "            ",
+   "EMAIL": "rosaleha@mp.gov.in, rosaleha@mp.gov.in"
+ },
+ {
+   "Sr.No": 266,
+   "Range_EName": "Kalda",
+   "Range_HName": "कल्दा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791328,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 267,
+   "Range_EName": "Shahnagar",
+   "Range_HName": "शाहनगर ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791215,
+   "FAXNo": "            ",
+   "EMAIL": "roshahnagar121@mp.gov.in"
+ },
+ {
+   "Sr.No": 268,
+   "Range_EName": "Delawari",
+   "Range_HName": "देलाबाड़ी ",
+   "STD": 7480,
+   "PhoneNO": 281803,
+   "MobileNO": 9424790716,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 269,
+   "Range_EName": "Pawai",
+   "Range_HName": "पवई",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9407808805,
+   "FAXNo": "            ",
+   "EMAIL": "ropawari@mp.gov.in, ropawai@mp.gov.in"
+ },
+ {
+   "Sr.No": 270,
+   "Range_EName": "Mohandra",
+   "Range_HName": "मोहन्द्रा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791211,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 271,
+   "Range_EName": "Raipura",
+   "Range_HName": "रैपुरा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791213,
+   "FAXNo": "9669646840",
+   "EMAIL": "roraipura@mp.gov.in, roraipura@mp.gov.in"
+ },
+ {
+   "Sr.No": 272,
+   "Range_EName": "Chhindwara",
+   "Range_HName": "छिंदवाड़ा ",
+   "STD": 7162,
+   "PhoneNO": 243463,
+   "MobileNO": 9424791454,
+   "FAXNo": "            ",
+   "EMAIL": "rochhindwara@mp.gov.in"
+ },
+ {
+   "Sr.No": 273,
+   "Range_EName": "Chhindi",
+   "Range_HName": "छिन्दी ",
+   "STD": 7149,
+   "PhoneNO": 275517,
+   "MobileNO": 9424791486,
+   "FAXNo": "            ",
+   "EMAIL": "rochhindi@mp.gov.in"
+ },
+ {
+   "Sr.No": 274,
+   "Range_EName": "Chaurai",
+   "Range_HName": "चौरई ",
+   "STD": 7166,
+   "PhoneNO": 222103,
+   "MobileNO": 9424791479,
+   "FAXNo": "            ",
+   "EMAIL": "rochourai@mp.gov.in"
+ },
+ {
+   "Sr.No": 275,
+   "Range_EName": "Amarwara",
+   "Range_HName": "अमरवाड़ा ",
+   "STD": 7167,
+   "PhoneNO": 223465,
+   "MobileNO": 9424791511,
+   "FAXNo": "            ",
+   "EMAIL": "roamarwara@mp.gov.in"
+ },
+ {
+   "Sr.No": 276,
+   "Range_EName": "East Harrai",
+   "Range_HName": "पूर्व हर्रई ",
+   "STD": 7168,
+   "PhoneNO": 220194,
+   "MobileNO": 9424791488,
+   "FAXNo": "            ",
+   "EMAIL": "roharraieast@mp.gov.in"
+ },
+ {
+   "Sr.No": 277,
+   "Range_EName": "West Harrai",
+   "Range_HName": "पश्चिम हर्रई ",
+   "STD": 7168,
+   "PhoneNO": 220256,
+   "MobileNO": 9424791480,
+   "FAXNo": "            ",
+   "EMAIL": "roharraiwest@mp.gov.in"
+ },
+ {
+   "Sr.No": 278,
+   "Range_EName": "East Batkakhapa",
+   "Range_HName": "पूर्व बटकाखापा ",
+   "STD": 7169,
+   "PhoneNO": 265171,
+   "MobileNO": 9424791493,
+   "FAXNo": "            ",
+   "EMAIL": "robatkakhapaeast@mp.gov.in"
+ },
+ {
+   "Sr.No": 279,
+   "Range_EName": "West Batkakhapa",
+   "Range_HName": "पश्चिम बटकाखापा ",
+   "STD": 7169,
+   "PhoneNO": 265092,
+   "MobileNO": 9425380763,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 280,
+   "Range_EName": "Saori",
+   "Range_HName": "सांवरी ",
+   "STD": 7162,
+   "PhoneNO": 242977,
+   "MobileNO": 9424791529,
+   "FAXNo": "            ",
+   "EMAIL": "ro_saori@mp.gov.in"
+ },
+ {
+   "Sr.No": 281,
+   "Range_EName": "Parasia",
+   "Range_HName": "परासिया ",
+   "STD": 7161,
+   "PhoneNO": 221124,
+   "MobileNO": 9424794528,
+   "FAXNo": "            ",
+   "EMAIL": "ro_parasia@mp.gov.in"
+ },
+ {
+   "Sr.No": 282,
+   "Range_EName": "Jamai",
+   "Range_HName": "जामई ",
+   "STD": 7160,
+   "PhoneNO": 231333,
+   "MobileNO": 9424791530,
+   "FAXNo": "            ",
+   "EMAIL": "rojamai@mp.gov.in,rotjamai@mp.gov.in"
+ },
+ {
+   "Sr.No": 283,
+   "Range_EName": "Damua",
+   "Range_HName": "दमुआ ",
+   "STD": 7160,
+   "PhoneNO": 264365,
+   "MobileNO": 9424791531,
+   "FAXNo": "            ",
+   "EMAIL": "ro_damua@mp.gov.in"
+ },
+ {
+   "Sr.No": 284,
+   "Range_EName": "Tamia",
+   "Range_HName": "तामिया ",
+   "STD": 7149,
+   "PhoneNO": 272254,
+   "MobileNO": 9424791532,
+   "FAXNo": "            ",
+   "EMAIL": "rotamia@mp.gov.in"
+ },
+ {
+   "Sr.No": 285,
+   "Range_EName": "Sangakheda",
+   "Range_HName": "सांगाखेड़ा ",
+   "STD": 7149,
+   "PhoneNO": 272260,
+   "MobileNO": 9424791533,
+   "FAXNo": "            ",
+   "EMAIL": "ro_sangakheda@mp.gov.in"
+ },
+ {
+   "Sr.No": 286,
+   "Range_EName": "Delakhari",
+   "Range_HName": "देलाखारी ",
+   "STD": 7149,
+   "PhoneNO": 271045,
+   "MobileNO": 9424791534,
+   "FAXNo": "            ",
+   "EMAIL": "ro_delakhari1@mp.gov.in"
+ },
+ {
+   "Sr.No": 287,
+   "Range_EName": "Jhirpa",
+   "Range_HName": "झिरपा ",
+   "STD": 7149,
+   "PhoneNO": 284097,
+   "MobileNO": 9424791535,
+   "FAXNo": "            ",
+   "EMAIL": "ro_jhirpa@mp.gov.in"
+ },
+ {
+   "Sr.No": 288,
+   "Range_EName": "Lawaghoghri",
+   "Range_HName": "लावाघोघरी ",
+   "STD": 7162,
+   "PhoneNO": 243637,
+   "MobileNO": 9424791603,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 289,
+   "Range_EName": "Sillewani",
+   "Range_HName": "सिल्लेवानी ",
+   "STD": 7165,
+   "PhoneNO": 275842,
+   "MobileNO": 9424791611,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 290,
+   "Range_EName": "Bichhua",
+   "Range_HName": "बिछुआ ",
+   "STD": 7162,
+   "PhoneNO": 259439,
+   "MobileNO": 9424791621,
+   "FAXNo": "            ",
+   "EMAIL": "robichhua@mp.gov.in"
+ },
+ {
+   "Sr.No": 291,
+   "Range_EName": "Sousar",
+   "Range_HName": "सौंसर ",
+   "STD": 7165,
+   "PhoneNO": 221292,
+   "MobileNO": 9424791630,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 292,
+   "Range_EName": "Kanhan",
+   "Range_HName": "कन्हान ",
+   "STD": 7165,
+   "PhoneNO": 221229,
+   "MobileNO": 9424791639,
+   "FAXNo": "            ",
+   "EMAIL": "rokanhan@mp.gov.in"
+ },
+ {
+   "Sr.No": 293,
+   "Range_EName": "Ambada",
+   "Range_HName": "अम्बाड़ा ",
+   "STD": 7165,
+   "PhoneNO": 221293,
+   "MobileNO": 9424791645,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 294,
+   "Range_EName": "Pandhurna",
+   "Range_HName": "पांढुर्णा ",
+   "STD": 7165,
+   "PhoneNO": 220062,
+   "MobileNO": 9424791635,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 295,
+   "Range_EName": "Gwalior",
+   "Range_HName": "ग्वालियर ",
+   "STD": 751,
+   "PhoneNO": 2347825,
+   "MobileNO": 9424791678,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 296,
+   "Range_EName": "Benhat",
+   "Range_HName": "बेहट ",
+   "STD": 751,
+   "PhoneNO": 2561316,
+   "MobileNO": 9424791685,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 297,
+   "Range_EName": "North Ghatigaon",
+   "Range_HName": "उत्तर घाटीगांव",
+   "STD": 7526,
+   "PhoneNO": 272222,
+   "MobileNO": 9424791692,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 298,
+   "Range_EName": "South Ghatigaon",
+   "Range_HName": "दक्षिण घाटीगांव",
+   "STD": 7526,
+   "PhoneNO": 271471,
+   "MobileNO": 9424791699,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 299,
+   "Range_EName": "Game Range Ghatigoan",
+   "Range_HName": "गेमरेज घाटीगांव",
+   "STD": 7526,
+   "PhoneNO": 280487,
+   "MobileNO": 9424791703,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 300,
+   "Range_EName": "Game Range Tighra",
+   "Range_HName": "गेमरेंज तिघरा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 301,
+   "Range_EName": "Morena",
+   "Range_HName": "मुरैना ",
+   "STD": 7532,
+   "PhoneNO": 232135,
+   "MobileNO": 9424791802,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 302,
+   "Range_EName": "Jora",
+   "Range_HName": "जौरा ",
+   "STD": 7537,
+   "PhoneNO": 245555,
+   "MobileNO": 9424791808,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 303,
+   "Range_EName": "Pahargarh",
+   "Range_HName": "पहाडगढ ",
+   "STD": 7536,
+   "PhoneNO": 787834,
+   "MobileNO": 9424791812,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 304,
+   "Range_EName": "Sabalgarh",
+   "Range_HName": "सबलगढ़",
+   "STD": 7536,
+   "PhoneNO": 253660,
+   "MobileNO": 9424791822,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 305,
+   "Range_EName": "Seondha",
+   "Range_HName": "सेंवढ़ा ",
+   "STD": 7521,
+   "PhoneNO": 271496,
+   "MobileNO": 9424791851,
+   "FAXNo": "            ",
+   "EMAIL": "range_seondha@mp.gov.in"
+ },
+ {
+   "Sr.No": 306,
+   "Range_EName": "Goraghat",
+   "Range_HName": "गोराघाट ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424791777,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 307,
+   "Range_EName": "Datiya",
+   "Range_HName": "दतिया ",
+   "STD": 7522,
+   "PhoneNO": 238943,
+   "MobileNO": 9424791783,
+   "FAXNo": "            ",
+   "EMAIL": "rangedatiya@mp.gov.in"
+ },
+ {
+   "Sr.No": 308,
+   "Range_EName": "Sheopur",
+   "Range_HName": "श्योपुर ",
+   "STD": 7530,
+   "PhoneNO": 220078,
+   "MobileNO": 9424791877,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 309,
+   "Range_EName": "Budera",
+   "Range_HName": "बुढ़ेरा ",
+   "STD": 7530,
+   "PhoneNO": 221295,
+   "MobileNO": 9424791887,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 310,
+   "Range_EName": "Khadi",
+   "Range_HName": "खाड़ी ",
+   "STD": 7535,
+   "PhoneNO": 264277,
+   "MobileNO": 9424791888,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 311,
+   "Range_EName": "Karahal",
+   "Range_HName": "कराहल ",
+   "STD": 7533,
+   "PhoneNO": 262207,
+   "MobileNO": 9424791893,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 312,
+   "Range_EName": "Baroda",
+   "Range_HName": "बड़ोदा ",
+   "STD": 7531,
+   "PhoneNO": 276392,
+   "MobileNO": 9424791898,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 313,
+   "Range_EName": "East Vijaypur",
+   "Range_HName": "पूर्व विजयपुर",
+   "STD": 7528,
+   "PhoneNO": 266522,
+   "MobileNO": 9424791901,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 314,
+   "Range_EName": "West Vijaypur",
+   "Range_HName": "पश्चिम विजयपुर ",
+   "STD": 7528,
+   "PhoneNO": 280280,
+   "MobileNO": 9424791903,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 315,
+   "Range_EName": "Virpur",
+   "Range_HName": "वीरपुर ",
+   "STD": 7535,
+   "PhoneNO": 268777,
+   "MobileNO": 9424791909,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 316,
+   "Range_EName": "Bhind",
+   "Range_HName": "भिण्ड ",
+   "STD": 7534,
+   "PhoneNO": 244562,
+   "MobileNO": 9424791651,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 317,
+   "Range_EName": "Ater",
+   "Range_HName": "अटेर ",
+   "STD": 7534,
+   "PhoneNO": 282400,
+   "MobileNO": 9424791653,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 318,
+   "Range_EName": "Hoshangabad",
+   "Range_HName": "होशंगाबाद",
+   "STD": 7574,
+   "PhoneNO": 250310,
+   "MobileNO": 9424792029,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 319,
+   "Range_EName": "Itarsi",
+   "Range_HName": "इटारसी",
+   "STD": 7572,
+   "PhoneNO": 230878,
+   "MobileNO": 9424792032,
+   "FAXNo": "            ",
+   "EMAIL": "roitarsi@mp.gov.in"
+ },
+ {
+   "Sr.No": 320,
+   "Range_EName": "Sukhatawa",
+   "Range_HName": "सुखतवा",
+   "STD": 7572,
+   "PhoneNO": 271579,
+   "MobileNO": 9424792040,
+   "FAXNo": "            ",
+   "EMAIL": "rosukhtawa@mp.gov.in"
+ },
+ {
+   "Sr.No": 321,
+   "Range_EName": "Sohagpur",
+   "Range_HName": "सोहागपुर ",
+   "STD": 7575,
+   "PhoneNO": 278075,
+   "MobileNO": 9424792046,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 322,
+   "Range_EName": "Bankhedi",
+   "Range_HName": "बनखेड़ी ",
+   "STD": 7576,
+   "PhoneNO": 228635,
+   "MobileNO": 9424792064,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 323,
+   "Range_EName": "Seoni Malwa",
+   "Range_HName": "सिवनीमालवा ",
+   "STD": 7570,
+   "PhoneNO": 220633,
+   "MobileNO": 9424792070,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 324,
+   "Range_EName": "Banapura",
+   "Range_HName": "बानापुरा",
+   "STD": 7572,
+   "PhoneNO": 225092,
+   "MobileNO": 9424792079,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 325,
+   "Range_EName": "Handia",
+   "Range_HName": "हंडिया ",
+   "STD": 7577,
+   "PhoneNO": 226331,
+   "MobileNO": 9424791954,
+   "FAXNo": "            ",
+   "EMAIL": "rothandia@mp.gov.in"
+ },
+ {
+   "Sr.No": 326,
+   "Range_EName": "Temagaon",
+   "Range_HName": "टेमागांव ",
+   "STD": 7573,
+   "PhoneNO": 234819,
+   "MobileNO": 9424791953,
+   "FAXNo": "            ",
+   "EMAIL": "rottemagaon@mp.gov.in"
+ },
+ {
+   "Sr.No": 327,
+   "Range_EName": "Rahatgaon",
+   "Range_HName": "रहटगांव ",
+   "STD": 7573,
+   "PhoneNO": 234864,
+   "MobileNO": 9424791952,
+   "FAXNo": "            ",
+   "EMAIL": "rotrahatgaon@mp.gov.in"
+ },
+ {
+   "Sr.No": 328,
+   "Range_EName": "Magardha",
+   "Range_HName": "मगरधा ",
+   "STD": 7577,
+   "PhoneNO": 275762,
+   "MobileNO": 9424791955,
+   "FAXNo": "            ",
+   "EMAIL": "rotmagardha@mp.gov.in"
+ },
+ {
+   "Sr.No": 329,
+   "Range_EName": "Borpani",
+   "Range_HName": "बोरपानी",
+   "STD": 7573,
+   "PhoneNO": 234023,
+   "MobileNO": 9424791957,
+   "FAXNo": "            ",
+   "EMAIL": "rotborpani@mp.gov.in"
+ },
+ {
+   "Sr.No": 330,
+   "Range_EName": "Makrai",
+   "Range_HName": "मकडार्ई ",
+   "STD": 7577,
+   "PhoneNO": 288093,
+   "MobileNO": 9424791956,
+   "FAXNo": "            ",
+   "EMAIL": "rotmakrai@mp.gov.in"
+ },
+ {
+   "Sr.No": 331,
+   "Range_EName": "Indore",
+   "Range_HName": "इन्दौर ",
+   "STD": 731,
+   "PhoneNO": 2530731,
+   "MobileNO": 9424792328,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 332,
+   "Range_EName": "Choral",
+   "Range_HName": "चोरल",
+   "STD": 7324,
+   "PhoneNO": 264274,
+   "MobileNO": 9424792341,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 333,
+   "Range_EName": "Mhow",
+   "Range_HName": "महू ",
+   "STD": 7324,
+   "PhoneNO": 2864508,
+   "MobileNO": 9424792349,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 334,
+   "Range_EName": "Manpur",
+   "Range_HName": "मानपुर ",
+   "STD": 7324,
+   "PhoneNO": 248355,
+   "MobileNO": 9424792360,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 335,
+   "Range_EName": "Dhar",
+   "Range_HName": "धार ",
+   "STD": 7292,
+   "PhoneNO": 235341,
+   "MobileNO": 9424792227,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 336,
+   "Range_EName": "Mandu",
+   "Range_HName": "माण्डव ",
+   "STD": 7292,
+   "PhoneNO": 280414,
+   "MobileNO": 9424792278,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 337,
+   "Range_EName": "Dhamnod",
+   "Range_HName": "धामनोद ",
+   "STD": 7291,
+   "PhoneNO": 222777,
+   "MobileNO": 9424792235,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 338,
+   "Range_EName": "Sardarpur",
+   "Range_HName": "सरदारपुर",
+   "STD": 7296,
+   "PhoneNO": 235796,
+   "MobileNO": 9424792251,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 339,
+   "Range_EName": "Tanda",
+   "Range_HName": "टाण्डा ",
+   "STD": 7296,
+   "PhoneNO": 290228,
+   "MobileNO": 9424792258,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 340,
+   "Range_EName": "Bagh",
+   "Range_HName": "बाग ",
+   "STD": 7297,
+   "PhoneNO": 267015,
+   "MobileNO": 9424792267,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 341,
+   "Range_EName": "Kukshi",
+   "Range_HName": "कुक्षी ",
+   "STD": 7297,
+   "PhoneNO": 234760,
+   "MobileNO": 9424792272,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 342,
+   "Range_EName": "Jhabua",
+   "Range_HName": "झाबुआ",
+   "STD": 7392,
+   "PhoneNO": 243084,
+   "MobileNO": 9424792429,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 343,
+   "Range_EName": "Thandla",
+   "Range_HName": "थांदला",
+   "STD": 7390,
+   "PhoneNO": 276490,
+   "MobileNO": 9424792430,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 344,
+   "Range_EName": "Petlawad",
+   "Range_HName": "पेटलावद",
+   "STD": 7391,
+   "PhoneNO": 266224,
+   "MobileNO": 9424792431,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 345,
+   "Range_EName": "Jobat",
+   "Range_HName": "जोबट",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 346,
+   "Range_EName": "Bhabhra",
+   "Range_HName": "भाभरा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 347,
+   "Range_EName": "Katthiwara",
+   "Range_HName": "काठीवाडा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 348,
+   "Range_EName": "Alirajpur",
+   "Range_HName": "आलीराजपुर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 349,
+   "Range_EName": "Umrali",
+   "Range_HName": "उमराली",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 350,
+   "Range_EName": "Mathwad",
+   "Range_HName": "मथवाड",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 351,
+   "Range_EName": "Jabalpur",
+   "Range_HName": "जबलपुर ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792629,
+   "FAXNo": "            ",
+   "EMAIL": "rojabalpur@mp.gov.in"
+ },
+ {
+   "Sr.No": 352,
+   "Range_EName": "Bargi",
+   "Range_HName": "बरगी ",
+   "STD": 761,
+   "PhoneNO": 2860222,
+   "MobileNO": 9424792646,
+   "FAXNo": "            ",
+   "EMAIL": "robargi@mp.gov.in"
+ },
+ {
+   "Sr.No": 353,
+   "Range_EName": "Shahpura",
+   "Range_HName": "शहपुरा ",
+   "STD": 7621,
+   "PhoneNO": 230450,
+   "MobileNO": 9424792715,
+   "FAXNo": "            ",
+   "EMAIL": "roshahpura@mp.gov.in"
+ },
+ {
+   "Sr.No": 354,
+   "Range_EName": "Patan",
+   "Range_HName": "पाटन ",
+   "STD": 761,
+   "PhoneNO": 220113,
+   "MobileNO": 9424792652,
+   "FAXNo": "            ",
+   "EMAIL": "ropatan@mp.gov.in"
+ },
+ {
+   "Sr.No": 355,
+   "Range_EName": "Sihora",
+   "Range_HName": "सिहोरा ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792671,
+   "FAXNo": "            ",
+   "EMAIL": "rosihora@mp.gov.in"
+ },
+ {
+   "Sr.No": 356,
+   "Range_EName": "Panager",
+   "Range_HName": "पनागर ",
+   "STD": 761,
+   "PhoneNO": 2350922,
+   "MobileNO": 9424792678,
+   "FAXNo": "            ",
+   "EMAIL": "ropanager@mp.gov.in"
+ },
+ {
+   "Sr.No": 357,
+   "Range_EName": "Kundam",
+   "Range_HName": "कुण्डम ",
+   "STD": 7623,
+   "PhoneNO": 250699,
+   "MobileNO": 9424792665,
+   "FAXNo": "            ",
+   "EMAIL": "rokundam@mp.gov.in"
+ },
+ {
+   "Sr.No": 358,
+   "Range_EName": "Katni",
+   "Range_HName": "कटनी ",
+   "STD": 7622,
+   "PhoneNO": 220041,
+   "MobileNO": 9424792727,
+   "FAXNo": "            ",
+   "EMAIL": "rokatani@mp.gov.in"
+ },
+ {
+   "Sr.No": 359,
+   "Range_EName": "Badwara",
+   "Range_HName": "बड़वारा ",
+   "STD": 7626,
+   "PhoneNO": 274201,
+   "MobileNO": 9424792739,
+   "FAXNo": "            ",
+   "EMAIL": "robadwara@mp.gov.in"
+ },
+ {
+   "Sr.No": 360,
+   "Range_EName": "Game Range Karera",
+   "Range_HName": "गेम रेंज करैरा ",
+   "STD": 7493,
+   "PhoneNO": 252356,
+   "MobileNO": 9424794812,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 361,
+   "Range_EName": "Vijayraghavgarh",
+   "Range_HName": "विजयराघवगढ़",
+   "STD": 7626,
+   "PhoneNO": 277175,
+   "MobileNO": 9424792749,
+   "FAXNo": "            ",
+   "EMAIL": "rovijayraghavgarh@mp.gov.in"
+ },
+ {
+   "Sr.No": 362,
+   "Range_EName": "Rithi",
+   "Range_HName": "रीठी",
+   "STD": 7622,
+   "PhoneNO": 267307,
+   "MobileNO": 9424792759,
+   "FAXNo": "            ",
+   "EMAIL": "rorithi@mp.gov.in"
+ },
+ {
+   "Sr.No": 363,
+   "Range_EName": "Bahoriband",
+   "Range_HName": "बहोरीबंद ",
+   "STD": 7624,
+   "PhoneNO": 261630,
+   "MobileNO": 9424792770,
+   "FAXNo": "            ",
+   "EMAIL": "robahoriband@mp.gov.in"
+ },
+ {
+   "Sr.No": 364,
+   "Range_EName": "Dheemarkheda",
+   "Range_HName": "ढीमरखेड़ा",
+   "STD": 7625,
+   "PhoneNO": 220513,
+   "MobileNO": 9424792779,
+   "FAXNo": "            ",
+   "EMAIL": "rodheemarkheda@mp.gov.in"
+ },
+ {
+   "Sr.No": 365,
+   "Range_EName": "Jagmandal",
+   "Range_HName": "जगमण्डल",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792845,
+   "FAXNo": "            ",
+   "EMAIL": "rojagmandal@mp.gov.in"
+ },
+ {
+   "Sr.No": 366,
+   "Range_EName": "Mohgaon",
+   "Range_HName": "मोहगांव ",
+   "STD": 7642,
+   "PhoneNO": 282285,
+   "MobileNO": 9424792831,
+   "FAXNo": "            ",
+   "EMAIL": "romohgoan@mp.gov.in"
+ },
+ {
+   "Sr.No": 367,
+   "Range_EName": "Ghughri",
+   "Range_HName": "घुघरी ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792861,
+   "FAXNo": "            ",
+   "EMAIL": "roghughri@mp.gov.in"
+ },
+ {
+   "Sr.No": 368,
+   "Range_EName": "Bichhiya",
+   "Range_HName": "बिछिया ",
+   "STD": 7648,
+   "PhoneNO": 232552,
+   "MobileNO": 9424792851,
+   "FAXNo": "            ",
+   "EMAIL": "robichhiya@mp.gov.in"
+ },
+ {
+   "Sr.No": 369,
+   "Range_EName": "Motinala",
+   "Range_HName": "मोतीनाला ",
+   "STD": 7648,
+   "PhoneNO": 232553,
+   "MobileNO": 9424792870,
+   "FAXNo": "            ",
+   "EMAIL": "romotinala@mp.gov.in"
+ },
+ {
+   "Sr.No": 370,
+   "Range_EName": "Mawai",
+   "Range_HName": "मवई ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792880,
+   "FAXNo": "            ",
+   "EMAIL": "romawai@mp.gov.in"
+ },
+ {
+   "Sr.No": 371,
+   "Range_EName": "Kalpi",
+   "Range_HName": "कालपी",
+   "STD": 7643,
+   "PhoneNO": 224392,
+   "MobileNO": 9424792929,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 372,
+   "Range_EName": "Barela",
+   "Range_HName": "बरेला ",
+   "STD": 761,
+   "PhoneNO": 2890696,
+   "MobileNO": 9424792941,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 373,
+   "Range_EName": "Beejadandi",
+   "Range_HName": "बीजाडांडी ",
+   "STD": 7643,
+   "PhoneNO": 226524,
+   "MobileNO": 9424792934,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 374,
+   "Range_EName": "Niwas",
+   "Range_HName": "निवास ",
+   "STD": 7641,
+   "PhoneNO": 291522,
+   "MobileNO": 9424792951,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 375,
+   "Range_EName": "Mandla",
+   "Range_HName": "मण्डला ",
+   "STD": 7642,
+   "PhoneNO": 253343,
+   "MobileNO": 9424792901,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 376,
+   "Range_EName": "Maharajpur",
+   "Range_HName": "महाराजपुर ",
+   "STD": 7642,
+   "PhoneNO": 254021,
+   "MobileNO": 9424792905,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 377,
+   "Range_EName": "Tikariya",
+   "Range_HName": "टिकरिया ",
+   "STD": 7643,
+   "PhoneNO": 224545,
+   "MobileNO": 9424792921,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 378,
+   "Range_EName": "Bamhani",
+   "Range_HName": "बम्हनी",
+   "STD": 7649,
+   "PhoneNO": 239291,
+   "MobileNO": 9424792912,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 379,
+   "Range_EName": "Dindori",
+   "Range_HName": "डिण्डौरी",
+   "STD": 7644,
+   "PhoneNO": 234626,
+   "MobileNO": 9424792593,
+   "FAXNo": "            ",
+   "EMAIL": "rodindori@mp.gov.in"
+ },
+ {
+   "Sr.No": 380,
+   "Range_EName": "Amarpur",
+   "Range_HName": "अमरपुर",
+   "STD": 7644,
+   "PhoneNO": 265654,
+   "MobileNO": 9424792595,
+   "FAXNo": "            ",
+   "EMAIL": "roamarpur@mp.gov.in"
+ },
+ {
+   "Sr.No": 381,
+   "Range_EName": "North Samnapur",
+   "Range_HName": "उत्तर समनापुर",
+   "STD": 7645,
+   "PhoneNO": 267397,
+   "MobileNO": 9424792541,
+   "FAXNo": "            ",
+   "EMAIL": "rosamnapurnorth@mp.gov.in"
+ },
+ {
+   "Sr.No": 382,
+   "Range_EName": "Shahpur",
+   "Range_HName": "शाहपुर ",
+   "STD": 7644,
+   "PhoneNO": 269500,
+   "MobileNO": 9424792592,
+   "FAXNo": "            ",
+   "EMAIL": "roshahpurDindori@mp.gov.in"
+ },
+ {
+   "Sr.No": 383,
+   "Range_EName": "Mehandwani",
+   "Range_HName": "मेंहदवानी",
+   "STD": 7640,
+   "PhoneNO": 263472,
+   "MobileNO": 9424792604,
+   "FAXNo": "            ",
+   "EMAIL": "romehandwani@mp.gov.in"
+ },
+ {
+   "Sr.No": 384,
+   "Range_EName": "West Karanjia",
+   "Range_HName": "पश्चिम करंजिया",
+   "STD": 7645,
+   "PhoneNO": 292120,
+   "MobileNO": 9424792580,
+   "FAXNo": "            ",
+   "EMAIL": "rokaranjiawest@mp.gov.in"
+ },
+ {
+   "Sr.No": 385,
+   "Range_EName": "Bajag",
+   "Range_HName": "बजाग",
+   "STD": 7645,
+   "PhoneNO": 270345,
+   "MobileNO": 9424792597,
+   "FAXNo": "            ",
+   "EMAIL": "robajag@mp.gov.in"
+ },
+ {
+   "Sr.No": 386,
+   "Range_EName": "South Samnapur",
+   "Range_HName": "दक्षिण समनापुर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792596,
+   "FAXNo": "            ",
+   "EMAIL": "rosamnapursouth@mp.gov.in"
+ },
+ {
+   "Sr.No": 387,
+   "Range_EName": "East Karanjia",
+   "Range_HName": "पूर्व करंजिया",
+   "STD": 7645,
+   "PhoneNO": 266623,
+   "MobileNO": 9424792598,
+   "FAXNo": "            ",
+   "EMAIL": "rokaranjiyaeast@mp.gov.in"
+ },
+ {
+   "Sr.No": 388,
+   "Range_EName": "Amulla(Gudi)",
+   "Range_HName": "अमुल्ला",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793268,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 389,
+   "Range_EName": "Khandwa",
+   "Range_HName": "खंडवा ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793178,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 390,
+   "Range_EName": "Mundi",
+   "Range_HName": "मूंदी ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793200,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 391,
+   "Range_EName": "Punasa",
+   "Range_HName": "पूनासा ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793210,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 392,
+   "Range_EName": "Chandgarh",
+   "Range_HName": "चांदगढ़ ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793233,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 393,
+   "Range_EName": "Aonliya",
+   "Range_HName": "आंवलिया ",
+   "STD": 7571,
+   "PhoneNO": 280175,
+   "MobileNO": 9424793243,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 394,
+   "Range_EName": "East Kalibhit",
+   "Range_HName": "पूर्व कालीभीत ",
+   "STD": 7328,
+   "PhoneNO": 280525,
+   "MobileNO": 9424793247,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 395,
+   "Range_EName": "Baldi",
+   "Range_HName": "बलड़ी ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793222,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 396,
+   "Range_EName": "Singaji",
+   "Range_HName": "सिंगाजी",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793192,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 397,
+   "Range_EName": "West Kalibhit",
+   "Range_HName": "पश्चिम कालीभीत ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793250,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 398,
+   "Range_EName": "Khalwa",
+   "Range_HName": "खालवा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793265,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 399,
+   "Range_EName": "Burhanpur",
+   "Range_HName": "बुरहानपुर ",
+   "STD": 7325,
+   "PhoneNO": 253795,
+   "MobileNO": 9424793079,
+   "FAXNo": "",
+   "EMAIL": "roburhanpur@mp.gov.in"
+ },
+ {
+   "Sr.No": 400,
+   "Range_EName": "Khaknar",
+   "Range_HName": "खकनार ",
+   "STD": 729,
+   "PhoneNO": 276572,
+   "MobileNO": 9424793124,
+   "FAXNo": "",
+   "EMAIL": "rokhaknar@mp.gov.in"
+ },
+ {
+   "Sr.No": 401,
+   "Range_EName": "Bodarli",
+   "Range_HName": "बोदरली",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 402,
+   "Range_EName": "Shahpur",
+   "Range_HName": "शाहपुर ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 403,
+   "Range_EName": "Nepanagar",
+   "Range_HName": "नेपानगर ",
+   "STD": 7325,
+   "PhoneNO": 222818,
+   "MobileNO": 9424793102,
+   "FAXNo": "",
+   "EMAIL": "ronepanagar@mp.gov.in"
+ },
+ {
+   "Sr.No": 404,
+   "Range_EName": "Asir",
+   "Range_HName": "असीर ",
+   "STD": 7325,
+   "PhoneNO": 294012,
+   "MobileNO": 9424793078,
+   "FAXNo": "",
+   "EMAIL": "roasir123@mp.gov.in"
+ },
+ {
+   "Sr.No": 405,
+   "Range_EName": "Dhulkot",
+   "Range_HName": "धुलकोट",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 406,
+   "Range_EName": "Navra",
+   "Range_HName": "नावरा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 407,
+   "Range_EName": "Khargone",
+   "Range_HName": "खरगोन ",
+   "STD": 7282,
+   "PhoneNO": 250095,
+   "MobileNO": 9424793278,
+   "FAXNo": "",
+   "EMAIL": "rokhargone@mp.gov.in"
+ },
+ {
+   "Sr.No": 408,
+   "Range_EName": "Kasrawad",
+   "Range_HName": "कसरावद ",
+   "STD": 7285,
+   "PhoneNO": 231911,
+   "MobileNO": 9424793280,
+   "FAXNo": "",
+   "EMAIL": "rokasrawad@mp.gov.in"
+ },
+ {
+   "Sr.No": 409,
+   "Range_EName": "Bistan",
+   "Range_HName": "बिस्टान ",
+   "STD": 7282,
+   "PhoneNO": 252595,
+   "MobileNO": 9424793290,
+   "FAXNo": "",
+   "EMAIL": "robistan@mp.gov.in"
+ },
+ {
+   "Sr.No": 410,
+   "Range_EName": "Barud",
+   "Range_HName": "बरूड़",
+   "STD": 7282,
+   "PhoneNO": 266700,
+   "MobileNO": 9424793283,
+   "FAXNo": "",
+   "EMAIL": "robarud@mp.gov.in"
+ },
+ {
+   "Sr.No": 411,
+   "Range_EName": "Sirwel",
+   "Range_HName": "सिरवेल ",
+   "STD": 7282,
+   "PhoneNO": 280642,
+   "MobileNO": 9424793285,
+   "FAXNo": "",
+   "EMAIL": "rosirwel@mp.gov.in"
+ },
+ {
+   "Sr.No": 412,
+   "Range_EName": "Bhikangaon",
+   "Range_HName": "भीकनगांव ",
+   "STD": 7288,
+   "PhoneNO": 222987,
+   "MobileNO": 9424793288,
+   "FAXNo": "",
+   "EMAIL": "robhikangaon@mp.gov.in"
+ },
+ {
+   "Sr.No": 413,
+   "Range_EName": "Chiriya",
+   "Range_HName": "चिरीया ",
+   "STD": 7289,
+   "PhoneNO": 280101,
+   "MobileNO": 9424793295,
+   "FAXNo": "",
+   "EMAIL": "rochiriya@mp.gov.in"
+ },
+ {
+   "Sr.No": 414,
+   "Range_EName": "Titraniya",
+   "Range_HName": "तितरान्या ",
+   "STD": 7282,
+   "PhoneNO": 284276,
+   "MobileNO": 9424793297,
+   "FAXNo": "",
+   "EMAIL": "rotitranya@mp.gov.in"
+ },
+ {
+   "Sr.No": 415,
+   "Range_EName": "Padlya",
+   "Range_HName": "पाडल्या ",
+   "STD": 7283,
+   "PhoneNO": 255589,
+   "MobileNO": 9424793316,
+   "FAXNo": "",
+   "EMAIL": "ropandlya@mp.gov.in"
+ },
+ {
+   "Sr.No": 416,
+   "Range_EName": "Balawada",
+   "Range_HName": "बलवाड़ा ",
+   "STD": 7280,
+   "PhoneNO": 261385,
+   "MobileNO": 9424793306,
+   "FAXNo": "            ",
+   "EMAIL": "robalawada@mp.gov.in"
+ },
+ {
+   "Sr.No": 417,
+   "Range_EName": "Barwah",
+   "Range_HName": "बड़वाह ",
+   "STD": 7280,
+   "PhoneNO": 224831,
+   "MobileNO": 9424793302,
+   "FAXNo": "            ",
+   "EMAIL": "robarwah@mp.gov.in"
+ },
+ {
+   "Sr.No": 418,
+   "Range_EName": "Sanawad",
+   "Range_HName": "सनावद ",
+   "STD": 7280,
+   "PhoneNO": 280264,
+   "MobileNO": 9424793314,
+   "FAXNo": "            ",
+   "EMAIL": "rosanawad@mp.gov.in"
+ },
+ {
+   "Sr.No": 419,
+   "Range_EName": "Kakarda",
+   "Range_HName": "काकडदा ",
+   "STD": 7283,
+   "PhoneNO": 261525,
+   "MobileNO": 9424793322,
+   "FAXNo": "            ",
+   "EMAIL": "rokakarda@mp.gov.in"
+ },
+ {
+   "Sr.No": 420,
+   "Range_EName": "Katkut",
+   "Range_HName": "काटकूट ",
+   "STD": 7280,
+   "PhoneNO": 263245,
+   "MobileNO": 9424793310,
+   "FAXNo": "            ",
+   "EMAIL": "rokatkut@mp.gov.in"
+ },
+ {
+   "Sr.No": 421,
+   "Range_EName": "Mandleshwar",
+   "Range_HName": "मण्डलेश्वर ",
+   "STD": 7283,
+   "PhoneNO": 233083,
+   "MobileNO": 9424793319,
+   "FAXNo": "            ",
+   "EMAIL": "romandleshwar@mp.gov.in"
+ },
+ {
+   "Sr.No": 422,
+   "Range_EName": "Barwani",
+   "Range_HName": "बडवानी ",
+   "STD": 7290,
+   "PhoneNO": 223347,
+   "MobileNO": 9424793027,
+   "FAXNo": "            ",
+   "EMAIL": "Rotbarwani@mp.gov.in"
+ },
+ {
+   "Sr.No": 423,
+   "Range_EName": "Pati",
+   "Range_HName": "पाटी ",
+   "STD": 7290,
+   "PhoneNO": 232256,
+   "MobileNO": 9424793031,
+   "FAXNo": "            ",
+   "EMAIL": "ropati@mp.gov.in"
+ },
+ {
+   "Sr.No": 424,
+   "Range_EName": "Bokrata",
+   "Range_HName": "बोकराटा ",
+   "STD": 7290,
+   "PhoneNO": 290156,
+   "MobileNO": 9424793030,
+   "FAXNo": "            ",
+   "EMAIL": "rotbokrata@mp.gov.in"
+ },
+ {
+   "Sr.No": 425,
+   "Range_EName": "Rajpur",
+   "Range_HName": "राजपुर ",
+   "STD": 7284,
+   "PhoneNO": 280134,
+   "MobileNO": 9424793029,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 426,
+   "Range_EName": "Sendhwa",
+   "Range_HName": "सेंधवा ",
+   "STD": 7281,
+   "PhoneNO": 222054,
+   "MobileNO": 9424793060,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 427,
+   "Range_EName": "Pansemal",
+   "Range_HName": "पानसेमल ",
+   "STD": 7286,
+   "PhoneNO": 241825,
+   "MobileNO": 9424793050,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 428,
+   "Range_EName": "Dhanora",
+   "Range_HName": "धनोरा ",
+   "STD": 7281,
+   "PhoneNO": 263356,
+   "MobileNO": 9424793062,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 429,
+   "Range_EName": "Warla",
+   "Range_HName": "वरला ",
+   "STD": 7281,
+   "PhoneNO": 261647,
+   "MobileNO": 9424793058,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 430,
+   "Range_EName": "Dhavli",
+   "Range_HName": "धवली ",
+   "STD": 7281,
+   "PhoneNO": 291037,
+   "MobileNO": 9424793057,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 431,
+   "Range_EName": "Rewa",
+   "Range_HName": "रीवा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 432,
+   "Range_EName": "Semaria",
+   "Range_HName": "सेमरिया ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 433,
+   "Range_EName": "Sirmaour",
+   "Range_HName": "सिरमौर ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 434,
+   "Range_EName": "Atraila",
+   "Range_HName": "अतरैला ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 435,
+   "Range_EName": "Dabhaura",
+   "Range_HName": "डभौरा ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 436,
+   "Range_EName": "Mauganj",
+   "Range_HName": "मऊगंज ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 437,
+   "Range_EName": "Chakghat",
+   "Range_HName": "चाकघाट ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 438,
+   "Range_EName": "Hanumana",
+   "Range_HName": "हनुमना ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 439,
+   "Range_EName": "Satna",
+   "Range_HName": "सतना ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 440,
+   "Range_EName": "Uchehara",
+   "Range_HName": "उंचेहरा ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 441,
+   "Range_EName": "Maihar",
+   "Range_HName": "मैहर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 442,
+   "Range_EName": "Amarpatan",
+   "Range_HName": "अमरपाटन ",
+   "STD": 7675,
+   "PhoneNO": 270037,
+   "MobileNO": 9424793504,
+   "FAXNo": "            ",
+   "EMAIL": "roamarpatan@mp.gov.in"
+ },
+ {
+   "Sr.No": 443,
+   "Range_EName": "Mukundpur",
+   "Range_HName": "मुकुन्दपुर ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 444,
+   "Range_EName": "Nagod",
+   "Range_HName": "नागौद ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 445,
+   "Range_EName": "Singhpur",
+   "Range_HName": "सिंहपुर ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 446,
+   "Range_EName": "Barondha",
+   "Range_HName": "बरौंधा ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 447,
+   "Range_EName": "Majhgawan",
+   "Range_HName": "मझगवां ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 448,
+   "Range_EName": "Chitrakoot",
+   "Range_HName": "चित्रकूट ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 449,
+   "Range_EName": "Mada",
+   "Range_HName": "माडा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793587,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 450,
+   "Range_EName": "Waidhan",
+   "Range_HName": "बैढन ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793555,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 451,
+   "Range_EName": "Karthua",
+   "Range_HName": "कर्थुआ ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793578,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 452,
+   "Range_EName": "Chitrangi",
+   "Range_HName": "चितरंगी ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793545,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 453,
+   "Range_EName": "Jiyavan",
+   "Range_HName": "जियावन ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793569,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 454,
+   "Range_EName": "East Sarai",
+   "Range_HName": "पूर्व सरई",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793595,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 455,
+   "Range_EName": "West Sarai",
+   "Range_HName": "पश्चिम सरई ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793587,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 456,
+   "Range_EName": "Bargawan",
+   "Range_HName": "बरगवॉ ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793529,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 457,
+   "Range_EName": "Gorbi",
+   "Range_HName": "गोरबी",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793537,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 458,
+   "Range_EName": "Sidhi",
+   "Range_HName": "सीधी",
+   "STD": 7822,
+   "PhoneNO": null,
+   "MobileNO": 9424793608,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 459,
+   "Range_EName": "Churhat",
+   "Range_HName": "चुरहट ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793627,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 460,
+   "Range_EName": "Bahri",
+   "Range_HName": "बहरी ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793645,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 461,
+   "Range_EName": "Majhauli",
+   "Range_HName": "मझौली ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793651,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 462,
+   "Range_EName": "Madwas",
+   "Range_HName": "मड़वास ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793655,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 463,
+   "Range_EName": "Sagar",
+   "Range_HName": "दक्षिण सागर",
+   "STD": 7582,
+   "PhoneNO": 241010,
+   "MobileNO": 9424793808,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 464,
+   "Range_EName": "Rahatgarh",
+   "Range_HName": "राहतगढ़ ",
+   "STD": 7584,
+   "PhoneNO": 254725,
+   "MobileNO": 9424793816,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 465,
+   "Range_EName": "Dhana",
+   "Range_HName": "ढाना ",
+   "STD": 7585,
+   "PhoneNO": 270910,
+   "MobileNO": 9424793810,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 466,
+   "Range_EName": "Garhakota",
+   "Range_HName": "गढ़ाकोटा ",
+   "STD": 7585,
+   "PhoneNO": 280300,
+   "MobileNO": 9424793830,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 467,
+   "Range_EName": "Kesli",
+   "Range_HName": "केसली ",
+   "STD": 7586,
+   "PhoneNO": 224388,
+   "MobileNO": 9424793853,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 468,
+   "Range_EName": "Gourjhamar",
+   "Range_HName": "गौरझामर ",
+   "STD": 7586,
+   "PhoneNO": 225383,
+   "MobileNO": 9424793843,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 469,
+   "Range_EName": "Deori",
+   "Range_HName": "देवरी ",
+   "STD": 7586,
+   "PhoneNO": 250085,
+   "MobileNO": 9424793835,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 470,
+   "Range_EName": "Khurai",
+   "Range_HName": "खुरई",
+   "STD": 7581,
+   "PhoneNO": 241010,
+   "MobileNO": 9424793862,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 471,
+   "Range_EName": "Bandri",
+   "Range_HName": "बांदरी ",
+   "STD": 7581,
+   "PhoneNO": 272442,
+   "MobileNO": 9424793873,
+   "FAXNo": "            ",
+   "EMAIL": "robandri@mp.gov.in"
+ },
+ {
+   "Sr.No": 472,
+   "Range_EName": "Malthon",
+   "Range_HName": "मालथौन",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 473,
+   "Range_EName": "Banda",
+   "Range_HName": "बण्डा ",
+   "STD": 7583,
+   "PhoneNO": 252312,
+   "MobileNO": 9424793884,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 474,
+   "Range_EName": "Shahgarh",
+   "Range_HName": "शाहगढ़ ",
+   "STD": 7583,
+   "PhoneNO": 259590,
+   "MobileNO": 9424793894,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 475,
+   "Range_EName": "North Sagar",
+   "Range_HName": "उत्तर सागर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 476,
+   "Range_EName": "Mohli",
+   "Range_HName": "मोहली ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 477,
+   "Range_EName": "Singpur",
+   "Range_HName": "सिंगपुर ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 478,
+   "Range_EName": "Jhapan",
+   "Range_HName": "झापन ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 479,
+   "Range_EName": "Dongargon",
+   "Range_HName": "डोंगरगांव ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 480,
+   "Range_EName": "Noradehi",
+   "Range_HName": "नौरादेही ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 481,
+   "Range_EName": "Sarra",
+   "Range_HName": "सर्रा ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 482,
+   "Range_EName": "Damoh",
+   "Range_HName": "दमोह ",
+   "STD": 7812,
+   "PhoneNO": 227931,
+   "MobileNO": 9424793707,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 483,
+   "Range_EName": "Hatta",
+   "Range_HName": "हट्टा ",
+   "STD": 7604,
+   "PhoneNO": 264310,
+   "MobileNO": 9424793735,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 484,
+   "Range_EName": "Sagoni",
+   "Range_HName": "सगौनी ",
+   "STD": 7605,
+   "PhoneNO": 281095,
+   "MobileNO": 9424793742,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 485,
+   "Range_EName": "Singrampur",
+   "Range_HName": "सिंग्रामपुर ",
+   "STD": 7606,
+   "PhoneNO": 256398,
+   "MobileNO": 9424793727,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 486,
+   "Range_EName": "Veerangna Durgawati San Singorgarh",
+   "Range_HName": "वी.दु.अभ्या.सिंगौरगढ ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424793747,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 487,
+   "Range_EName": "Tendukhera",
+   "Range_HName": "तेन्दूखेड़ा ",
+   "STD": 7603,
+   "PhoneNO": 284404,
+   "MobileNO": 9424793752,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 488,
+   "Range_EName": "Tejgarh",
+   "Range_HName": "तेजगढ़ ",
+   "STD": 7603,
+   "PhoneNO": 284405,
+   "MobileNO": 9424793758,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 489,
+   "Range_EName": "Taradehi",
+   "Range_HName": "तारादेही ",
+   "STD": 7603,
+   "PhoneNO": 284402,
+   "MobileNO": 9424793766,
+   "FAXNo": "            ",
+   "EMAIL": "rotaradehi@mp.gov.in"
+ },
+ {
+   "Sr.No": 490,
+   "Range_EName": "Jhalone",
+   "Range_HName": "झलौन ",
+   "STD": 7603,
+   "PhoneNO": 284403,
+   "MobileNO": 9424793763,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 491,
+   "Range_EName": "Chhapara",
+   "Range_HName": "छपारा ",
+   "STD": 7691,
+   "PhoneNO": 290890,
+   "MobileNO": 9424794159,
+   "FAXNo": "",
+   "EMAIL": "rochhapara@mp.gov.in"
+ },
+ {
+   "Sr.No": 492,
+   "Range_EName": "Kahani",
+   "Range_HName": "कहानी ",
+   "STD": 7693,
+   "PhoneNO": 283204,
+   "MobileNO": 9424794184,
+   "FAXNo": "",
+   "EMAIL": "rokahani@mp.gov.in"
+ },
+ {
+   "Sr.No": 493,
+   "Range_EName": "Dhuma",
+   "Range_HName": "धूमा ",
+   "STD": 7690,
+   "PhoneNO": 288299,
+   "MobileNO": 9424794178,
+   "FAXNo": "",
+   "EMAIL": "rodhuma@mp.gov.in"
+ },
+ {
+   "Sr.No": 494,
+   "Range_EName": "Lakhanadon",
+   "Range_HName": "लखनादौन ",
+   "STD": 7690,
+   "PhoneNO": 240449,
+   "MobileNO": 9424794167,
+   "FAXNo": "07690-240449",
+   "EMAIL": "rolakhanadon@mp.gov.in"
+ },
+ {
+   "Sr.No": 495,
+   "Range_EName": "Ghansor",
+   "Range_HName": "घंसौर ",
+   "STD": 7693,
+   "PhoneNO": 280460,
+   "MobileNO": 9424794181,
+   "FAXNo": "07693-280460",
+   "EMAIL": "roghansor@mp.gov.in"
+ },
+ {
+   "Sr.No": 496,
+   "Range_EName": "Shikara",
+   "Range_HName": "शिकारा ",
+   "STD": 7693,
+   "PhoneNO": 273411,
+   "MobileNO": 9424794187,
+   "FAXNo": "",
+   "EMAIL": "roshikara02@mp.gov.in"
+ },
+ {
+   "Sr.No": 497,
+   "Range_EName": "Seoni",
+   "Range_HName": "सिवनी ",
+   "STD": 7692,
+   "PhoneNO": 224554,
+   "MobileNO": 9424794138,
+   "FAXNo": "7692222989  ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 498,
+   "Range_EName": "Barghat",
+   "Range_HName": "बरघाट ",
+   "STD": 7692,
+   "PhoneNO": 250674,
+   "MobileNO": 9424794112,
+   "FAXNo": "7692222989  ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 499,
+   "Range_EName": "Keolari",
+   "Range_HName": "केवलारी ",
+   "STD": 7694,
+   "PhoneNO": 235433,
+   "MobileNO": 9424794123,
+   "FAXNo": "7692222989  ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 500,
+   "Range_EName": "Kanhiwara",
+   "Range_HName": "कान्हीवाड़ा ",
+   "STD": 7692,
+   "PhoneNO": 253133,
+   "MobileNO": 9424794204,
+   "FAXNo": "7692222989  ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 501,
+   "Range_EName": "Bandol",
+   "Range_HName": "बण्डोल ",
+   "STD": 7692,
+   "PhoneNO": 237597,
+   "MobileNO": 9424794125,
+   "FAXNo": "7692222989  ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 502,
+   "Range_EName": "Rukhar",
+   "Range_HName": "रूखड़ ",
+   "STD": 7692,
+   "PhoneNO": 224013,
+   "MobileNO": 9424794129,
+   "FAXNo": "7692222989  ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 503,
+   "Range_EName": "Kurai",
+   "Range_HName": "कुरई ",
+   "STD": 7695,
+   "PhoneNO": 246508,
+   "MobileNO": 9424794117,
+   "FAXNo": "7692222989  ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 504,
+   "Range_EName": "Khawasa",
+   "Range_HName": "पूर्व खवासा ",
+   "STD": 7695,
+   "PhoneNO": 246530,
+   "MobileNO": 9424794131,
+   "FAXNo": "7692222989  ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 505,
+   "Range_EName": "Narsinghpur",
+   "Range_HName": "नरसिंहपुर ",
+   "STD": 7792,
+   "PhoneNO": 236098,
+   "MobileNO": 9424794010,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 506,
+   "Range_EName": "Gadarwara",
+   "Range_HName": "गाडरवारा ",
+   "STD": 7791,
+   "PhoneNO": 256250,
+   "MobileNO": 9424794014,
+   "FAXNo": "07791-254014",
+   "EMAIL": "rogadarwara@mp.gov.in"
+ },
+ {
+   "Sr.No": 507,
+   "Range_EName": "Kareli",
+   "Range_HName": "करेली ",
+   "STD": 7793,
+   "PhoneNO": 272464,
+   "MobileNO": 9424794013,
+   "FAXNo": "            ",
+   "EMAIL": "ro.kareli@mp.gov.in"
+ },
+ {
+   "Sr.No": 508,
+   "Range_EName": "Gotegoan",
+   "Range_HName": "गोटेगांव ",
+   "STD": 7794,
+   "PhoneNO": 283779,
+   "MobileNO": 9424794011,
+   "FAXNo": "            ",
+   "EMAIL": "rogotegoan@mp.gov.in"
+ },
+ {
+   "Sr.No": 509,
+   "Range_EName": "Barman",
+   "Range_HName": "बरमान ",
+   "STD": 7793,
+   "PhoneNO": 275911,
+   "MobileNO": 9424794012,
+   "FAXNo": "            ",
+   "EMAIL": "robarman@mp.gov.in"
+ },
+ {
+   "Sr.No": 510,
+   "Range_EName": "Chandia",
+   "Range_HName": "चंदिया ",
+   "STD": 7653,
+   "PhoneNO": 267160,
+   "MobileNO": 9424794603,
+   "FAXNo": "            ",
+   "EMAIL": "rochandia@mp.gov.in"
+ },
+ {
+   "Sr.No": 511,
+   "Range_EName": "Umaria",
+   "Range_HName": "उमरिया ",
+   "STD": 7653,
+   "PhoneNO": 222331,
+   "MobileNO": 9424794507,
+   "FAXNo": "            ",
+   "EMAIL": "roumaria@mp.gov.in"
+ },
+ {
+   "Sr.No": 512,
+   "Range_EName": "Nourozabad",
+   "Range_HName": "नौरोजाबाद ",
+   "STD": 7653,
+   "PhoneNO": 268285,
+   "MobileNO": 9424794514,
+   "FAXNo": "            ",
+   "EMAIL": "ronourozabad@mp.gov.in"
+ },
+ {
+   "Sr.No": 513,
+   "Range_EName": "Pali",
+   "Range_HName": "पाली ",
+   "STD": 7655,
+   "PhoneNO": 233059,
+   "MobileNO": 9424794545,
+   "FAXNo": "            ",
+   "EMAIL": "ropali@mp.gov.in"
+ },
+ {
+   "Sr.No": 514,
+   "Range_EName": "Ghunghunti",
+   "Range_HName": "घुनघुटी ",
+   "STD": 7655,
+   "PhoneNO": 273258,
+   "MobileNO": 9424794546,
+   "FAXNo": "            ",
+   "EMAIL": "roghunghunti@mp.gov.in"
+ },
+ {
+   "Sr.No": 515,
+   "Range_EName": "Anuppur",
+   "Range_HName": "अनूपपुर ",
+   "STD": 7659,
+   "PhoneNO": 262809,
+   "MobileNO": 9424794258,
+   "FAXNo": "            ",
+   "EMAIL": "roanuppur@mp.gov.in"
+ },
+ {
+   "Sr.No": 516,
+   "Range_EName": "Jaithari",
+   "Range_HName": "जैतहरी ",
+   "STD": 7659,
+   "PhoneNO": 262108,
+   "MobileNO": 9424794259,
+   "FAXNo": "            ",
+   "EMAIL": "rojaitharianup@mp.gov.in"
+ },
+ {
+   "Sr.No": 517,
+   "Range_EName": "Kotma",
+   "Range_HName": "कोतमा ",
+   "STD": 7658,
+   "PhoneNO": 233439,
+   "MobileNO": 9424794260,
+   "FAXNo": "            ",
+   "EMAIL": "rokotma@mp.gov.in"
+ },
+ {
+   "Sr.No": 518,
+   "Range_EName": "Bijuri",
+   "Range_HName": "बिजुरी ",
+   "STD": 7658,
+   "PhoneNO": 264048,
+   "MobileNO": 9424794261,
+   "FAXNo": "            ",
+   "EMAIL": "robijuri@mp.gov.in"
+ },
+ {
+   "Sr.No": 519,
+   "Range_EName": "Rajendra Gram",
+   "Range_HName": "राजेन्दग्राम ",
+   "STD": 7629,
+   "PhoneNO": 268749,
+   "MobileNO": 9424794262,
+   "FAXNo": "            ",
+   "EMAIL": "rorajendragram@mp.gov.in"
+ },
+ {
+   "Sr.No": 520,
+   "Range_EName": "Amarkantak",
+   "Range_HName": "अमरकंटक ",
+   "STD": 7629,
+   "PhoneNO": 269353,
+   "MobileNO": 9424794266,
+   "FAXNo": "            ",
+   "EMAIL": "roamarkantak@mp.gov.in"
+ },
+ {
+   "Sr.No": 521,
+   "Range_EName": "Ahirgawa",
+   "Range_HName": "अहिरगवॉं ",
+   "STD": 7628,
+   "PhoneNO": 220272,
+   "MobileNO": 9424794263,
+   "FAXNo": "            ",
+   "EMAIL": "roahirgawa@mp.gov.in"
+ },
+ {
+   "Sr.No": 522,
+   "Range_EName": "East Beohari",
+   "Range_HName": "पूर्व ब्यौहारी ",
+   "STD": 7650,
+   "PhoneNO": 262517,
+   "MobileNO": 9424794385,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 523,
+   "Range_EName": "West Beohari",
+   "Range_HName": "पश्चिम ब्यौहारी ",
+   "STD": 7650,
+   "PhoneNO": 262015,
+   "MobileNO": 9424794374,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 524,
+   "Range_EName": "Godawal",
+   "Range_HName": "गोदावल ",
+   "STD": 7650,
+   "PhoneNO": 262566,
+   "MobileNO": 9424794394,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 525,
+   "Range_EName": "Amjhor",
+   "Range_HName": "अमझोर ",
+   "STD": 7651,
+   "PhoneNO": 221333,
+   "MobileNO": 9424794364,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 526,
+   "Range_EName": "Jaisinghnagar",
+   "Range_HName": "जयसिंहनगर ",
+   "STD": 7651,
+   "PhoneNO": 221220,
+   "MobileNO": 9424794404,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 527,
+   "Range_EName": "Shahdol",
+   "Range_HName": "शहडोल ",
+   "STD": 7652,
+   "PhoneNO": 245922,
+   "MobileNO": 9424794435,
+   "FAXNo": "            ",
+   "EMAIL": "roshahdol@mp.gov.in"
+ },
+ {
+   "Sr.No": 528,
+   "Range_EName": "Gohparu",
+   "Range_HName": "गोहपारू ",
+   "STD": 7656,
+   "PhoneNO": 266262,
+   "MobileNO": 9424794466,
+   "FAXNo": "            ",
+   "EMAIL": "rogohpura@mp.gov.in"
+ },
+ {
+   "Sr.No": 529,
+   "Range_EName": "Khannoudhi",
+   "Range_HName": "खन्नौधी ",
+   "STD": 7656,
+   "PhoneNO": 264304,
+   "MobileNO": 9424794474,
+   "FAXNo": "            ",
+   "EMAIL": "rokhannoudhi@mp.gov.in"
+ },
+ {
+   "Sr.No": 530,
+   "Range_EName": "Jaitpur",
+   "Range_HName": "जैतपुर ",
+   "STD": 7652,
+   "PhoneNO": 295659,
+   "MobileNO": 9424794450,
+   "FAXNo": "            ",
+   "EMAIL": "rojaitpur@mp.gov.in"
+ },
+ {
+   "Sr.No": 531,
+   "Range_EName": "Keshwahi",
+   "Range_HName": "केशवाही ",
+   "STD": 7659,
+   "PhoneNO": 260325,
+   "MobileNO": 9424794457,
+   "FAXNo": "            ",
+   "EMAIL": "rokeshwahi@mp.gov.in"
+ },
+ {
+   "Sr.No": 532,
+   "Range_EName": "Burhar",
+   "Range_HName": "बुढ़ार ",
+   "STD": 7652,
+   "PhoneNO": 260889,
+   "MobileNO": 9424794442,
+   "FAXNo": "            ",
+   "EMAIL": "roburhar@mp.gov.in"
+ },
+ {
+   "Sr.No": 533,
+   "Range_EName": "Karera",
+   "Range_HName": "करैरा ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 534,
+   "Range_EName": "Pichore",
+   "Range_HName": "पिछोर ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 535,
+   "Range_EName": "Kolaras",
+   "Range_HName": "कोलारस ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 536,
+   "Range_EName": "Baderwas",
+   "Range_HName": "बदरबास ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 537,
+   "Range_EName": "Shivpuri",
+   "Range_HName": "शिवपुरी ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 538,
+   "Range_EName": "Pohari",
+   "Range_HName": "पोहरी ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 539,
+   "Range_EName": "Satanwara",
+   "Range_HName": "सतनवाड़ा ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 540,
+   "Range_EName": "South Guna",
+   "Range_HName": "दक्षिण गुना",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794657,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 541,
+   "Range_EName": "Bamori",
+   "Range_HName": "बमौरी ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794684,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 542,
+   "Range_EName": "Fatehgarh",
+   "Range_HName": "फतेहगढ ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 543,
+   "Range_EName": "North Guna",
+   "Range_HName": "उत्तर गुना",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 544,
+   "Range_EName": "Raghogarh",
+   "Range_HName": "राधौगढ ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794713,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 545,
+   "Range_EName": "Maksudangarh",
+   "Range_HName": "मक्सूदनगढ ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794702,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 546,
+   "Range_EName": "Binaganj",
+   "Range_HName": "बीनागंज ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794692,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 547,
+   "Range_EName": "Aron",
+   "Range_HName": "आरोन ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794724,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 548,
+   "Range_EName": "Ashoknagar",
+   "Range_HName": "अशोकनगर ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794610,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 549,
+   "Range_EName": "Chanderi",
+   "Range_HName": "चन्देरी ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794608,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 550,
+   "Range_EName": "Mungaoli",
+   "Range_HName": "मुंगावली ",
+   "STD": 7548,
+   "PhoneNO": 273180,
+   "MobileNO": 9424794609,
+   "FAXNo": "            ",
+   "EMAIL": "romungaoli_askn@mp.gov.in"
+ },
+ {
+   "Sr.No": 551,
+   "Range_EName": "Ujjain",
+   "Range_HName": "उज्जैन ",
+   "STD": 734,
+   "PhoneNO": 2521640,
+   "MobileNO": 9424794912,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 552,
+   "Range_EName": "Tarana",
+   "Range_HName": "तराना ",
+   "STD": 7369,
+   "PhoneNO": 235189,
+   "MobileNO": 9424794913,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 553,
+   "Range_EName": "Agar",
+   "Range_HName": "आगर ",
+   "STD": 7362,
+   "PhoneNO": 289085,
+   "MobileNO": 9424794891,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 554,
+   "Range_EName": "Susner",
+   "Range_HName": "सुसनेर ",
+   "STD": 7361,
+   "PhoneNO": 289006,
+   "MobileNO": 9424794889,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 555,
+   "Range_EName": "Ratlam",
+   "Range_HName": "रतलाम ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794963,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 556,
+   "Range_EName": "Sailana Sanctuary",
+   "Range_HName": "सैलाना अभयारण्य",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794967,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 557,
+   "Range_EName": "Shivgarh",
+   "Range_HName": "शिवगढ़ ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794972,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 558,
+   "Range_EName": "Bajna",
+   "Range_HName": "बाजना ",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424794976,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 559,
+   "Range_EName": "Mandsaur",
+   "Range_HName": "मन्दसौर ",
+   "STD": 7422,
+   "PhoneNO": 255258,
+   "MobileNO": 9424794937,
+   "FAXNo": "255519",
+   "EMAIL": "romandsaur@mp.gov.in"
+ },
+ {
+   "Sr.No": 560,
+   "Range_EName": "Garoth",
+   "Range_HName": "गरोठ ",
+   "STD": 7425,
+   "PhoneNO": 238316,
+   "MobileNO": 9424794949,
+   "FAXNo": "            ",
+   "EMAIL": "rogaroth@mp.gov.in"
+ },
+ {
+   "Sr.No": 561,
+   "Range_EName": "Bhanpura",
+   "Range_HName": "भानपुरा ",
+   "STD": 7427,
+   "PhoneNO": 236260,
+   "MobileNO": 9424794944,
+   "FAXNo": "            ",
+   "EMAIL": "robhanpura@mp.gov.in"
+ },
+ {
+   "Sr.No": 562,
+   "Range_EName": "Biaora",
+   "Range_HName": "ब्यावरा",
+   "STD": 7374,
+   "PhoneNO": null,
+   "MobileNO": 9424790807,
+   "FAXNo": "",
+   "EMAIL": "robiaora@mp.gov.in"
+ },
+ {
+   "Sr.No": 563,
+   "Range_EName": "Panpatha Core",
+   "Range_HName": "पनपथा कोर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 564,
+   "Range_EName": "Shahpura",
+   "Range_HName": "शाहपुरा",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": 9424792591,
+   "FAXNo": "            ",
+   "EMAIL": "roshahpuraDindori@mpforet.org"
+ },
+ {
+   "Sr.No": 565,
+   "Range_EName": "Amanganj Buffer",
+   "Range_HName": "अमानगंज बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 566,
+   "Range_EName": "Shajapur",
+   "Range_HName": "शाजापुर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 567,
+   "Range_EName": "Shujalpur",
+   "Range_HName": "शुजालपुर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 568,
+   "Range_EName": "Haraspur",
+   "Range_HName": "हरसपुर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 569,
+   "Range_EName": "Chandra nagar Buffer",
+   "Range_HName": "चंद्रनगर बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 570,
+   "Range_EName": "Kishangarh Buffer",
+   "Range_HName": "किशनगढ बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 571,
+   "Range_EName": "Panna Buffer",
+   "Range_HName": "पन्ना बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 572,
+   "Range_EName": "Mariyadau",
+   "Range_HName": "मारीयदउ बफर",
+   "STD": null,
+   "PhoneNO": null,
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 573,
+   "Range_EName": "Son Gharial",
+   "Range_HName": "सोन घड़ियाल ",
+   "STD": 7822,
+   "PhoneNO": 280937,
+   "MobileNO": 9424793687,
+   "FAXNo": "",
+   "EMAIL": ""
+ }
+]

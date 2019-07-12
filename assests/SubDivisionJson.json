@@ -1,0 +1,2082 @@
+[
+ {
+   "Sr.No": 1,
+   "SubDiv_EName": "Baihar",
+   "SubDiv_HName": "बैहर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424790103,
+   "FAXNo": "            ",
+   "EMAIL": "sdobaihar@mp.gov.in"
+ },
+ {
+   "Sr.No": 2,
+   "SubDiv_EName": "Ukwa",
+   "SubDiv_HName": "उकवा",
+   "STD": 7632,
+   "PhoneNO": "247044",
+   "MobileNO": 9424790102,
+   "FAXNo": "            ",
+   "EMAIL": "sdoukwa@mp.gov.in"
+ },
+ {
+   "Sr.No": 3,
+   "SubDiv_EName": "Balaghat",
+   "SubDiv_HName": "बालाघाट",
+   "STD": 7632,
+   "PhoneNO": "248414",
+   "MobileNO": 9424790201,
+   "FAXNo": "247226",
+   "EMAIL": "sdobalaghat@mp.gov.in"
+ },
+ {
+   "Sr.No": 4,
+   "SubDiv_EName": "Lanji",
+   "SubDiv_HName": "लांजी",
+   "STD": 7635,
+   "PhoneNO": "255102",
+   "MobileNO": 9424790202,
+   "FAXNo": "            ",
+   "EMAIL": "sdolanji@mp.gov.in"
+ },
+ {
+   "Sr.No": 5,
+   "SubDiv_EName": "Katangi",
+   "SubDiv_HName": "कटंगी",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424790240,
+   "FAXNo": "            ",
+   "EMAIL": "sdoforest10@mp.gov.in"
+ },
+ {
+   "Sr.No": 6,
+   "SubDiv_EName": "Betul",
+   "SubDiv_HName": "बैतूल",
+   "STD": 7141,
+   "PhoneNO": "234204",
+   "MobileNO": 9424790302,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 7,
+   "SubDiv_EName": "Shahpur",
+   "SubDiv_HName": "शाहपुर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424790303,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 8,
+   "SubDiv_EName": "Sarni",
+   "SubDiv_HName": "सारनी",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424790304,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 9,
+   "SubDiv_EName": "Amla",
+   "SubDiv_HName": "आमला",
+   "STD": 7141,
+   "PhoneNO": "234266",
+   "MobileNO": 9424790401,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 10,
+   "SubDiv_EName": "Multai",
+   "SubDiv_HName": "मुलताई",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424690402,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 11,
+   "SubDiv_EName": "Bhainsdehi",
+   "SubDiv_HName": "भैंसदेही",
+   "STD": 7143,
+   "PhoneNO": "       ",
+   "MobileNO": 9424790403,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 12,
+   "SubDiv_EName": "Chicholi",
+   "SubDiv_HName": "चिचैली",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424790501,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 13,
+   "SubDiv_EName": "Taodi",
+   "SubDiv_HName": "तावडी",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424790502,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 14,
+   "SubDiv_EName": "Bhopal",
+   "SubDiv_HName": "भोपाल ",
+   "STD": 755,
+   "PhoneNO": "2674322",
+   "MobileNO": 9424790552,
+   "FAXNo": "2674359",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 15,
+   "SubDiv_EName": "Raisen",
+   "SubDiv_HName": "रायसेन",
+   "STD": 7482,
+   "PhoneNO": "222027",
+   "MobileNO": 9424790651,
+   "FAXNo": "222027",
+   "EMAIL": "sdoraisen@mp.gov.in"
+ },
+ {
+   "Sr.No": 16,
+   "SubDiv_EName": "Silwani",
+   "SubDiv_HName": "सिलवानी",
+   "STD": 7484,
+   "PhoneNO": "240539",
+   "MobileNO": 9993168987,
+   "FAXNo": "",
+   "EMAIL": "sdosilwani@mp.gov.in"
+ },
+ {
+   "Sr.No": 17,
+   "SubDiv_EName": "Obaidullaganj",
+   "SubDiv_HName": "औबेदुल्लागंज",
+   "STD": 7480,
+   "PhoneNO": "224062",
+   "MobileNO": 9424790711,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 18,
+   "SubDiv_EName": "Bari H.Q. Sultanpur",
+   "SubDiv_HName": "बाडी मुख्यालय सुल्तानपुर",
+   "STD": 7480,
+   "PhoneNO": "243362",
+   "MobileNO": 9424790713,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 19,
+   "SubDiv_EName": "Rata Pani Sanctuary",
+   "SubDiv_HName": "रातापानी अभ्यारण्य",
+   "STD": 7480,
+   "PhoneNO": "224478",
+   "MobileNO": 9424790712,
+   "FAXNo": "            ",
+   "EMAIL": "dixitramakant@mp.gov.in"
+ },
+ {
+   "Sr.No": 20,
+   "SubDiv_EName": "Singori Sanctuary",
+   "SubDiv_HName": "सिंघोरी अभ्यारण्य",
+   "STD": 7486,
+   "PhoneNO": "263465",
+   "MobileNO": 9424790714,
+   "FAXNo": "            ",
+   "EMAIL": "supt_singhori@mp.gov.in"
+ },
+ {
+   "Sr.No": 21,
+   "SubDiv_EName": "Sehore",
+   "SubDiv_HName": "सीहोर",
+   "STD": 7562,
+   "PhoneNO": "222767",
+   "MobileNO": 9424790851,
+   "FAXNo": "223815",
+   "EMAIL": "sdosehore@mp.gov.in"
+ },
+ {
+   "Sr.No": 22,
+   "SubDiv_EName": "Budhani",
+   "SubDiv_HName": "बुधनी",
+   "STD": 7564,
+   "PhoneNO": "280803",
+   "MobileNO": 9424790908,
+   "FAXNo": "            ",
+   "EMAIL": "sdobudani@mp.gov.in"
+ },
+ {
+   "Sr.No": 23,
+   "SubDiv_EName": "Vidisha",
+   "SubDiv_HName": "विदिशा",
+   "STD": 7592,
+   "PhoneNO": "232967",
+   "MobileNO": 9424790951,
+   "FAXNo": "236976",
+   "EMAIL": "sdovidisha@mp.gov.in"
+ },
+ {
+   "Sr.No": 24,
+   "SubDiv_EName": "Ganjbasoda",
+   "SubDiv_HName": "गंजबासोदा",
+   "STD": 7594,
+   "PhoneNO": "220240",
+   "MobileNO": 942479097,
+   "FAXNo": "236976",
+   "EMAIL": "sdoganjbasoda@mp.gov.in"
+ },
+ {
+   "Sr.No": 25,
+   "SubDiv_EName": "Sironj",
+   "SubDiv_HName": "सिरोंज",
+   "STD": 7591,
+   "PhoneNO": "252880",
+   "MobileNO": 9424790991,
+   "FAXNo": "            ",
+   "EMAIL": "sdosironj@mp.gov.in"
+ },
+ {
+   "Sr.No": 26,
+   "SubDiv_EName": "Rajgarh",
+   "SubDiv_HName": "राजगढ",
+   "STD": 7372,
+   "PhoneNO": "255007",
+   "MobileNO": 9424790801,
+   "FAXNo": "255007",
+   "EMAIL": "dforajgarh@mp.gov.in"
+ },
+ {
+   "Sr.No": 27,
+   "SubDiv_EName": "Chhatarpur",
+   "SubDiv_HName": "छतरपुर",
+   "STD": 7682,
+   "PhoneNO": "       ",
+   "MobileNO": 9424791052,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 28,
+   "SubDiv_EName": "Bijawar",
+   "SubDiv_HName": "बिजावर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424791070,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 29,
+   "SubDiv_EName": "Buxwaha",
+   "SubDiv_HName": "बिजावर",
+   "STD": 7609,
+   "PhoneNO": "254328",
+   "MobileNO": 9424791052,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 30,
+   "SubDiv_EName": "Buxwaha",
+   "SubDiv_HName": "बक्सवाहा",
+   "STD": 7609,
+   "PhoneNO": "254328",
+   "MobileNO": 9424791052,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 31,
+   "SubDiv_EName": "Tikamgarh",
+   "SubDiv_HName": "टीकमगढ",
+   "STD": 7683,
+   "PhoneNO": "245315",
+   "MobileNO": 9424791351,
+   "FAXNo": "245315      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 32,
+   "SubDiv_EName": "Niwari",
+   "SubDiv_HName": "निवारी",
+   "STD": 7680,
+   "PhoneNO": "232417",
+   "MobileNO": 9424791352,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 33,
+   "SubDiv_EName": "Vishramganj",
+   "SubDiv_HName": "विश्रामगंज",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424791154,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 34,
+   "SubDiv_EName": "Panna",
+   "SubDiv_HName": "पन्ना",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424791151,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 35,
+   "SubDiv_EName": "Kalda",
+   "SubDiv_HName": "काल्दा",
+   "STD": 7732,
+   "PhoneNO": "252016",
+   "MobileNO": 9424791322,
+   "FAXNo": "            ",
+   "EMAIL": "ups.gaharwar@mp.gov.in"
+ },
+ {
+   "Sr.No": 36,
+   "SubDiv_EName": "Pawai",
+   "SubDiv_HName": "पवई",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424791209,
+   "FAXNo": "            ",
+   "EMAIL": "ropawai@mp.gov.in"
+ },
+ {
+   "Sr.No": 37,
+   "SubDiv_EName": "Chhindwara",
+   "SubDiv_HName": "छिंदवाडा",
+   "STD": 7162,
+   "PhoneNO": "243457",
+   "MobileNO": 9424791452,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 38,
+   "SubDiv_EName": "Amarwara",
+   "SubDiv_HName": "अमरवाडा",
+   "STD": 7167,
+   "PhoneNO": "222545",
+   "MobileNO": 9424791453,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 39,
+   "SubDiv_EName": "Parasia",
+   "SubDiv_HName": "परासिया",
+   "STD": 7162,
+   "PhoneNO": "243458",
+   "MobileNO": 9424791526,
+   "FAXNo": "246996      ",
+   "EMAIL": "sdo_parasia@mp.gov.in"
+ },
+ {
+   "Sr.No": 40,
+   "SubDiv_EName": "Tamia",
+   "SubDiv_HName": "तामिया",
+   "STD": 7149,
+   "PhoneNO": "272221",
+   "MobileNO": 9424791527,
+   "FAXNo": "            ",
+   "EMAIL": "sdo_tamia@mp.gov.in"
+ },
+ {
+   "Sr.No": 41,
+   "SubDiv_EName": "Sillewani",
+   "SubDiv_HName": "सिल्लेवानी",
+   "STD": 7162,
+   "PhoneNO": "243459",
+   "MobileNO": 9424791601,
+   "FAXNo": "230601",
+   "EMAIL": "sdosillewani@mp.gov.in"
+ },
+ {
+   "Sr.No": 42,
+   "SubDiv_EName": "Sausar",
+   "SubDiv_HName": "सौंसर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424791602,
+   "FAXNo": "            ",
+   "EMAIL": "sdosousar@mp.gov.in"
+ },
+ {
+   "Sr.No": 43,
+   "SubDiv_EName": "Gwalior",
+   "SubDiv_HName": "ग्वालियर",
+   "STD": 751,
+   "PhoneNO": "2341166",
+   "MobileNO": 9424791677,
+   "FAXNo": "7512341166  ",
+   "EMAIL": "dfotgwa@mp.gov.in"
+ },
+ {
+   "Sr.No": 44,
+   "SubDiv_EName": "Ghatigaon",
+   "SubDiv_HName": "घाटीगांव",
+   "STD": 751,
+   "PhoneNO": "2341166",
+   "MobileNO": 9424791691,
+   "FAXNo": "7512341166  ",
+   "EMAIL": "dfotgwa@mp.gov.in"
+ },
+ {
+   "Sr.No": 45,
+   "SubDiv_EName": "Supredent Ghatigoan",
+   "SubDiv_HName": "सुपरीडेंट घाटीगांव",
+   "STD": 751,
+   "PhoneNO": "2341166",
+   "MobileNO": 9424791702,
+   "FAXNo": "7512341166  ",
+   "EMAIL": "dfotgwa@mp.gov.in"
+ },
+ {
+   "Sr.No": 46,
+   "SubDiv_EName": "Morena",
+   "SubDiv_HName": "मुरैना",
+   "STD": 7532,
+   "PhoneNO": "234742",
+   "MobileNO": 9424791801,
+   "FAXNo": "234742      ",
+   "EMAIL": "dfotmorena@mp.gov.in"
+ },
+ {
+   "Sr.No": 47,
+   "SubDiv_EName": "Sabalgarh",
+   "SubDiv_HName": "सबलगढ़",
+   "STD": 7536,
+   "PhoneNO": "253660",
+   "MobileNO": 9424791811,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 48,
+   "SubDiv_EName": "Ukwa (P)",
+   "SubDiv_HName": "उकवा (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 49,
+   "SubDiv_EName": "Baihar (P)",
+   "SubDiv_HName": "वैहर (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 50,
+   "SubDiv_EName": "Balaghat (P)",
+   "SubDiv_HName": "बालाघाट (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 51,
+   "SubDiv_EName": "Lanji (P)",
+   "SubDiv_HName": "लांजी (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 52,
+   "SubDiv_EName": "Bhaura (P)",
+   "SubDiv_HName": "भौंरा (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 53,
+   "SubDiv_EName": "Betul (P)",
+   "SubDiv_HName": "बैतूल (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 54,
+   "SubDiv_EName": "Chicholi (P)",
+   "SubDiv_HName": "चिचैली (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 55,
+   "SubDiv_EName": "Multai (P)",
+   "SubDiv_HName": "मुलताई (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 56,
+   "SubDiv_EName": "Sehore (P)",
+   "SubDiv_HName": "सीहोर (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 57,
+   "SubDiv_EName": "Budani (P)",
+   "SubDiv_HName": "बुधनी (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 58,
+   "SubDiv_EName": "Raisen (P)",
+   "SubDiv_HName": "रायसेन (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 59,
+   "SubDiv_EName": "Silwani (P)",
+   "SubDiv_HName": "सिलवानी (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 60,
+   "SubDiv_EName": "Chhindwara (P)",
+   "SubDiv_HName": "छिंदवाडा (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 61,
+   "SubDiv_EName": "Tamia (P)",
+   "SubDiv_HName": "तामिया (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 62,
+   "SubDiv_EName": "Amarwara (P)",
+   "SubDiv_HName": "अमरवाडा (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 63,
+   "SubDiv_EName": "Saunsar (P)",
+   "SubDiv_HName": "सोंसर (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 64,
+   "SubDiv_EName": "North Harda (P)",
+   "SubDiv_HName": "उत्तर हरदा (उ.)",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424795901,
+   "FAXNo": "            ",
+   "EMAIL": "SDOHardanorthP@mp.gov.in"
+ },
+ {
+   "Sr.No": 65,
+   "SubDiv_EName": "South Harda (P)",
+   "SubDiv_HName": "दक्षिण हरदा (उ.)",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424795902,
+   "FAXNo": "            ",
+   "EMAIL": "SDOHardasouthP@mp.gov.in"
+ },
+ {
+   "Sr.No": 66,
+   "SubDiv_EName": "Maharajpur(P)",
+   "SubDiv_HName": "महाराजपुर (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 67,
+   "SubDiv_EName": "Bichhiya (P)",
+   "SubDiv_HName": "बिछिया (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 68,
+   "SubDiv_EName": "Barela (P)",
+   "SubDiv_HName": "वरेला (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 69,
+   "SubDiv_EName": "Dindori (P)",
+   "SubDiv_HName": "डिण्डोरी (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 70,
+   "SubDiv_EName": "Gadasarai (P)",
+   "SubDiv_HName": "गाड़ासरई (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 71,
+   "SubDiv_EName": "East Kalibhit (P)",
+   "SubDiv_HName": "पूर्व कालीभीत (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 72,
+   "SubDiv_EName": "West Kalibhit (P)",
+   "SubDiv_HName": "पश्चिम कालीभीत (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 73,
+   "SubDiv_EName": "Punasa (P)",
+   "SubDiv_HName": "पुनासा (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 74,
+   "SubDiv_EName": "Khandwa (P)",
+   "SubDiv_HName": "खण्डवा (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 75,
+   "SubDiv_EName": "Manjhouli (P)",
+   "SubDiv_HName": "मझौली (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 76,
+   "SubDiv_EName": "Ghuma (P)",
+   "SubDiv_HName": "घूमा (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 77,
+   "SubDiv_EName": "Kewlari (P)",
+   "SubDiv_HName": "केवलारी (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 78,
+   "SubDiv_EName": "Kurai (P)",
+   "SubDiv_HName": "कुरई (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 79,
+   "SubDiv_EName": "Seoni (P)",
+   "SubDiv_HName": "सिवनी (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 80,
+   "SubDiv_EName": "Dewas (P)",
+   "SubDiv_HName": "देवास (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 81,
+   "SubDiv_EName": "Bagli (P)",
+   "SubDiv_HName": "बागली (उ.)",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 82,
+   "SubDiv_EName": "Datiya",
+   "SubDiv_HName": "दतिया",
+   "STD": 7522,
+   "PhoneNO": "237467",
+   "MobileNO": 9424791792,
+   "FAXNo": "237467      ",
+   "EMAIL": "dfotdatia@mp.gov.in"
+ },
+ {
+   "Sr.No": 83,
+   "SubDiv_EName": "Vijaypur",
+   "SubDiv_HName": "विजयपुर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424791900,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 84,
+   "SubDiv_EName": "Bhind",
+   "SubDiv_HName": "भिंड",
+   "STD": 7534,
+   "PhoneNO": "233948",
+   "MobileNO": 9424791650,
+   "FAXNo": "233948      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 85,
+   "SubDiv_EName": "Hoshangabad",
+   "SubDiv_HName": "होशंगाबाद",
+   "STD": 7574,
+   "PhoneNO": "254178",
+   "MobileNO": 9424792028,
+   "FAXNo": "            ",
+   "EMAIL": "dfogen@mp.gov.in"
+ },
+ {
+   "Sr.No": 86,
+   "SubDiv_EName": "Sohagpur",
+   "SubDiv_HName": "सोहागपुर",
+   "STD": 7575,
+   "PhoneNO": "278698",
+   "MobileNO": 9424792045,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 87,
+   "SubDiv_EName": "Seonimalwa",
+   "SubDiv_HName": "सिवनीमालवा",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792069,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 88,
+   "SubDiv_EName": "North Harda",
+   "SubDiv_HName": "उत्तर हरदा",
+   "STD": 7577,
+   "PhoneNO": "222003",
+   "MobileNO": 9424791951,
+   "FAXNo": "222003",
+   "EMAIL": "sdoftnharda@mp.gov.in"
+ },
+ {
+   "Sr.No": 89,
+   "SubDiv_EName": "South Harda",
+   "SubDiv_HName": "दक्षिण हरदा",
+   "STD": 7577,
+   "PhoneNO": "222003",
+   "MobileNO": 9424791950,
+   "FAXNo": "222003",
+   "EMAIL": "sdoftsharda@mp.gov.in"
+ },
+ {
+   "Sr.No": 90,
+   "SubDiv_EName": "Indore",
+   "SubDiv_HName": "इंदौर",
+   "STD": 731,
+   "PhoneNO": "2490239",
+   "MobileNO": 9424792327,
+   "FAXNo": "2492238     ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 91,
+   "SubDiv_EName": "Mhow",
+   "SubDiv_HName": "महू",
+   "STD": 7324,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792348,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 92,
+   "SubDiv_EName": "Dhar",
+   "SubDiv_HName": "धार",
+   "STD": 7292,
+   "PhoneNO": "222250",
+   "MobileNO": 9424792226,
+   "FAXNo": "222250      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 93,
+   "SubDiv_EName": "Sheopur",
+   "SubDiv_HName": "श्योपुर ",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424791925,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 94,
+   "SubDiv_EName": "Sardarpur",
+   "SubDiv_HName": "सरदारपुर",
+   "STD": 7296,
+   "PhoneNO": "235797",
+   "MobileNO": 9424792250,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 95,
+   "SubDiv_EName": "Jhabua",
+   "SubDiv_HName": "झाबुआ",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792428,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 96,
+   "SubDiv_EName": "Bhabra",
+   "SubDiv_HName": "भाभरा",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792427,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 97,
+   "SubDiv_EName": "Alirajpur",
+   "SubDiv_HName": "अलीराजपुर",
+   "STD": 7394,
+   "PhoneNO": "233530",
+   "MobileNO": 9424792426,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 98,
+   "SubDiv_EName": "Jabalpur",
+   "SubDiv_HName": "जबलपुर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792627,
+   "FAXNo": "            ",
+   "EMAIL": "sdojabalpur@mp.gov.in"
+ },
+ {
+   "Sr.No": 99,
+   "SubDiv_EName": "Sihora",
+   "SubDiv_HName": "सिहोरा",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792664,
+   "FAXNo": "            ",
+   "EMAIL": "sdosihora@mp.gov.in"
+ },
+ {
+   "Sr.No": 100,
+   "SubDiv_EName": "East Katni",
+   "SubDiv_HName": "पूर्व कटनी",
+   "STD": 7622,
+   "PhoneNO": "227417",
+   "MobileNO": 9424792726,
+   "FAXNo": "220700",
+   "EMAIL": "sdokatnieast@mp.gov.in"
+ },
+ {
+   "Sr.No": 101,
+   "SubDiv_EName": "West Katni",
+   "SubDiv_HName": "पश्चिम कटनी",
+   "STD": 7622,
+   "PhoneNO": "227417",
+   "MobileNO": 9424792758,
+   "FAXNo": "220700",
+   "EMAIL": "sdokatniwest@mp.gov.in"
+ },
+ {
+   "Sr.No": 102,
+   "SubDiv_EName": "Jagmandal",
+   "SubDiv_HName": "जगमंडल",
+   "STD": 7642,
+   "PhoneNO": "252423",
+   "MobileNO": 9424792827,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 103,
+   "SubDiv_EName": "Bichhiya",
+   "SubDiv_HName": "बिछिया",
+   "STD": 7642,
+   "PhoneNO": "252423",
+   "MobileNO": 9424792826,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 104,
+   "SubDiv_EName": "Niwas",
+   "SubDiv_HName": "निवास",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792893,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 105,
+   "SubDiv_EName": "Maharajpur",
+   "SubDiv_HName": "महाराजपुर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792891,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 106,
+   "SubDiv_EName": "Dindori",
+   "SubDiv_HName": "डिण्डोरी",
+   "STD": 7644,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792601,
+   "FAXNo": "            ",
+   "EMAIL": "sdodindori@mp.gov.in"
+ },
+ {
+   "Sr.No": 107,
+   "SubDiv_EName": "Shahpura",
+   "SubDiv_HName": "शाहपुरा",
+   "STD": 7645,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792603,
+   "FAXNo": "            ",
+   "EMAIL": "sdoshahpura@mp.gov.in"
+ },
+ {
+   "Sr.No": 108,
+   "SubDiv_EName": "Gadasarai",
+   "SubDiv_HName": "गढासर्रई",
+   "STD": 7645,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792602,
+   "FAXNo": "            ",
+   "EMAIL": "sdogadasari@mp.gov.in"
+ },
+ {
+   "Sr.No": 109,
+   "SubDiv_EName": "Khandwa",
+   "SubDiv_HName": "खण्डवा",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": 9424793177,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 110,
+   "SubDiv_EName": "Punasa",
+   "SubDiv_HName": "पुनासा",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": 9424793199,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 111,
+   "SubDiv_EName": "East Kalibhit",
+   "SubDiv_HName": "पूर्व कालीभीत",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": 9424793242,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 112,
+   "SubDiv_EName": "West Kalibhit",
+   "SubDiv_HName": "पश्चिम कालीभीत",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": 9424793249,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 113,
+   "SubDiv_EName": "Burhanpur",
+   "SubDiv_HName": "बुरहानपुर",
+   "STD": 7325,
+   "PhoneNO": "251280",
+   "MobileNO": 9424793076,
+   "FAXNo": "252305      ",
+   "EMAIL": "-"
+ },
+ {
+   "Sr.No": 114,
+   "SubDiv_EName": "Nepanagar",
+   "SubDiv_HName": "नेपानगर",
+   "STD": 27325,
+   "PhoneNO": "-      ",
+   "MobileNO": 9424793077,
+   "FAXNo": "-           ",
+   "EMAIL": "-"
+ },
+ {
+   "Sr.No": 115,
+   "SubDiv_EName": "Bistan",
+   "SubDiv_HName": "बिस्टन",
+   "STD": 7282,
+   "PhoneNO": "-      ",
+   "MobileNO": 9424793277,
+   "FAXNo": "-           ",
+   "EMAIL": "sdobistan@mp.gov.in"
+ },
+ {
+   "Sr.No": 116,
+   "SubDiv_EName": "Bhikangaon",
+   "SubDiv_HName": "भीकनगांव",
+   "STD": 7288,
+   "PhoneNO": "-      ",
+   "MobileNO": 9424793276,
+   "FAXNo": "-           ",
+   "EMAIL": "sdobhikangoan@mp.gov.in"
+ },
+ {
+   "Sr.No": 117,
+   "SubDiv_EName": "Barwaha",
+   "SubDiv_HName": "बडवाह",
+   "STD": 7280,
+   "PhoneNO": "222154",
+   "MobileNO": 9424793301,
+   "FAXNo": "            ",
+   "EMAIL": "sdobarwah@mp.gov.in"
+ },
+ {
+   "Sr.No": 118,
+   "SubDiv_EName": "Mandleshwar",
+   "SubDiv_HName": "मंडलेश्वर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793321,
+   "FAXNo": "            ",
+   "EMAIL": "sdomandleshwar@mp.gov.in"
+ },
+ {
+   "Sr.No": 119,
+   "SubDiv_EName": "Barwani",
+   "SubDiv_HName": "बडवानी",
+   "STD": 7290,
+   "PhoneNO": "222038",
+   "MobileNO": 9424793026,
+   "FAXNo": "            ",
+   "EMAIL": "sdoFTbarwani@mp.gov.in"
+ },
+ {
+   "Sr.No": 120,
+   "SubDiv_EName": "Sendhwa",
+   "SubDiv_HName": "सेंधवा",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793040,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 121,
+   "SubDiv_EName": "Balwadi",
+   "SubDiv_HName": "बलवाडी",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793061,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 122,
+   "SubDiv_EName": "Rewa",
+   "SubDiv_HName": "रीवा",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": 9424793327,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 123,
+   "SubDiv_EName": "Mauganj",
+   "SubDiv_HName": "मउगंज",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": 9424793390,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 124,
+   "SubDiv_EName": "Satna",
+   "SubDiv_HName": "सतना",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793426,
+   "FAXNo": "            ",
+   "EMAIL": "sdosatna@mp.gov.in"
+ },
+ {
+   "Sr.No": 125,
+   "SubDiv_EName": "Maihar",
+   "SubDiv_HName": "मैहर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793456,
+   "FAXNo": "            ",
+   "EMAIL": "sdomaihar@mp.gov.in"
+ },
+ {
+   "Sr.No": 126,
+   "SubDiv_EName": "Chitrakoot",
+   "SubDiv_HName": "चित्रकूट",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793480,
+   "FAXNo": "            ",
+   "EMAIL": "sdochitrakoot@mp.gov.in"
+ },
+ {
+   "Sr.No": 127,
+   "SubDiv_EName": "Waidhan",
+   "SubDiv_HName": "बैधान",
+   "STD": 7805,
+   "PhoneNO": "233251",
+   "MobileNO": 9424793526,
+   "FAXNo": "            ",
+   "EMAIL": "sdowaidhan@mp.gov.in"
+ },
+ {
+   "Sr.No": 128,
+   "SubDiv_EName": "Deoser",
+   "SubDiv_HName": "देवसर",
+   "STD": 7801,
+   "PhoneNO": "285523",
+   "MobileNO": 9424793528,
+   "FAXNo": "            ",
+   "EMAIL": "sdodeoser@mp.gov.in"
+ },
+ {
+   "Sr.No": 129,
+   "SubDiv_EName": "Gorbi",
+   "SubDiv_HName": "गोरबी",
+   "STD": 7805,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793527,
+   "FAXNo": "            ",
+   "EMAIL": "sdokarthua@mp.gov.in"
+ },
+ {
+   "Sr.No": 130,
+   "SubDiv_EName": "Sidhi",
+   "SubDiv_HName": "सीधी",
+   "STD": 7822,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793606,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 131,
+   "SubDiv_EName": "Majhauli",
+   "SubDiv_HName": "मझौली",
+   "STD": 7822,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793607,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 132,
+   "SubDiv_EName": "South Sagar",
+   "SubDiv_HName": "दक्षिण सागर",
+   "STD": 7582,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793807,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 133,
+   "SubDiv_EName": "Deori",
+   "SubDiv_HName": "देवरी",
+   "STD": 7586,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793834,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 134,
+   "SubDiv_EName": "North Sagar",
+   "SubDiv_HName": "उत्तर सागर",
+   "STD": 7582,
+   "PhoneNO": "236337",
+   "MobileNO": 9424793860,
+   "FAXNo": "236337      ",
+   "EMAIL": "dfonsgr@mp.gov.in"
+ },
+ {
+   "Sr.No": 135,
+   "SubDiv_EName": "Banda",
+   "SubDiv_HName": "बंडा",
+   "STD": 7583,
+   "PhoneNO": "252312",
+   "MobileNO": 9424793861,
+   "FAXNo": "            ",
+   "EMAIL": "dfonsgr@mp.gov.in"
+ },
+ {
+   "Sr.No": 136,
+   "SubDiv_EName": "Rehli",
+   "SubDiv_HName": "रेहली",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 137,
+   "SubDiv_EName": "Barman",
+   "SubDiv_HName": "बरमान",
+   "STD": 7793,
+   "PhoneNO": "275911",
+   "MobileNO": 9424794009,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 138,
+   "SubDiv_EName": "Damoh",
+   "SubDiv_HName": "दमोह",
+   "STD": 7812,
+   "PhoneNO": "222358",
+   "MobileNO": 9424793706,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 139,
+   "SubDiv_EName": "Tendukhera",
+   "SubDiv_HName": "तेंदुखेडा",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424793751,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 140,
+   "SubDiv_EName": "Chhapara",
+   "SubDiv_HName": "छपारा",
+   "STD": 7692,
+   "PhoneNO": "220556",
+   "MobileNO": 9424794152,
+   "FAXNo": "07692-226181",
+   "EMAIL": "sdochhapara@mp.gov.in"
+ },
+ {
+   "Sr.No": 141,
+   "SubDiv_EName": "Karahal",
+   "SubDiv_HName": "कराहल",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424791892,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 142,
+   "SubDiv_EName": "Lakhanadon",
+   "SubDiv_HName": "लखनादौन ",
+   "STD": 7690,
+   "PhoneNO": "240176",
+   "MobileNO": 9424794151,
+   "FAXNo": "07692-226181",
+   "EMAIL": "sdolakhanadon@mp.gov.in"
+ },
+ {
+   "Sr.No": 143,
+   "SubDiv_EName": "Seoni",
+   "SubDiv_HName": "सिवनी",
+   "STD": 7692,
+   "PhoneNO": "220530",
+   "MobileNO": 9424794109,
+   "FAXNo": "222989      ",
+   "EMAIL": "dfotsseoni@mp.gov.in"
+ },
+ {
+   "Sr.No": 144,
+   "SubDiv_EName": "Keolari",
+   "SubDiv_HName": "केवलारी",
+   "STD": 7692,
+   "PhoneNO": "220530",
+   "MobileNO": 9424794111,
+   "FAXNo": "222989      ",
+   "EMAIL": "dfotsseoni@mp.gov.in"
+ },
+ {
+   "Sr.No": 145,
+   "SubDiv_EName": "Kurai",
+   "SubDiv_HName": "कुरई",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 146,
+   "SubDiv_EName": "Narsinghpur",
+   "SubDiv_HName": "नरसिंहपुर",
+   "STD": 7792,
+   "PhoneNO": "230624",
+   "MobileNO": 9424794006,
+   "FAXNo": "230453      ",
+   "EMAIL": "dfonrs@mp.gov.in"
+ },
+ {
+   "Sr.No": 147,
+   "SubDiv_EName": "Gadarwara",
+   "SubDiv_HName": "गाड़रवाडा",
+   "STD": 7791,
+   "PhoneNO": "256250",
+   "MobileNO": 9424794007,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 148,
+   "SubDiv_EName": "Gotegoan",
+   "SubDiv_HName": "गोटेगाँव",
+   "STD": 7794,
+   "PhoneNO": "283789",
+   "MobileNO": 9424794008,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 149,
+   "SubDiv_EName": "Barmanseoni",
+   "SubDiv_HName": "बरमानसिवनी",
+   "STD": 7793,
+   "PhoneNO": "275911",
+   "MobileNO": 9424794009,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 150,
+   "SubDiv_EName": "Umaria",
+   "SubDiv_HName": "उमरिया",
+   "STD": 7653,
+   "PhoneNO": "       ",
+   "MobileNO": 9424794506,
+   "FAXNo": "            ",
+   "EMAIL": "sdoumaria@mp.gov.in"
+ },
+ {
+   "Sr.No": 151,
+   "SubDiv_EName": "Pali",
+   "SubDiv_HName": "पाली",
+   "STD": 7655,
+   "PhoneNO": "       ",
+   "MobileNO": 9424794544,
+   "FAXNo": "            ",
+   "EMAIL": "sdopali@mp.gov.in"
+ },
+ {
+   "Sr.No": 152,
+   "SubDiv_EName": "Anuppur",
+   "SubDiv_HName": "अनूपपुर",
+   "STD": 7659,
+   "PhoneNO": "222035",
+   "MobileNO": 9424794256,
+   "FAXNo": "            ",
+   "EMAIL": "sdoanuppur@mp.gov.in"
+ },
+ {
+   "Sr.No": 153,
+   "SubDiv_EName": "Rajendragram",
+   "SubDiv_HName": "राजेन्द्रग्राम",
+   "STD": 7629,
+   "PhoneNO": "       ",
+   "MobileNO": 9424794257,
+   "FAXNo": "            ",
+   "EMAIL": "sdorajendragram@mp.gov.in"
+ },
+ {
+   "Sr.No": 154,
+   "SubDiv_EName": "Beohari",
+   "SubDiv_HName": "ब्यौहारी ",
+   "STD": 7650,
+   "PhoneNO": "262250",
+   "MobileNO": 9424794403,
+   "FAXNo": "            ",
+   "EMAIL": "sdobeohari@mp.gov.in"
+ },
+ {
+   "Sr.No": 155,
+   "SubDiv_EName": "Jaisinghnagar",
+   "SubDiv_HName": "जयसिंहनगर",
+   "STD": 7651,
+   "PhoneNO": "       ",
+   "MobileNO": 9424794402,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 156,
+   "SubDiv_EName": "Sohagpur",
+   "SubDiv_HName": "सोहागपुर",
+   "STD": 7652,
+   "PhoneNO": "240304",
+   "MobileNO": 9424794432,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 157,
+   "SubDiv_EName": "Jaitpur",
+   "SubDiv_HName": "जैतपुर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424794433,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 158,
+   "SubDiv_EName": "Karera",
+   "SubDiv_HName": "करेरा",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 159,
+   "SubDiv_EName": "Shivpuri",
+   "SubDiv_HName": "शिवपुरी",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 160,
+   "SubDiv_EName": "Guna",
+   "SubDiv_HName": "गुना",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424794656,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 161,
+   "SubDiv_EName": "Binaganj",
+   "SubDiv_HName": "बीनागंज",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424794691,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 162,
+   "SubDiv_EName": "Bamori",
+   "SubDiv_HName": "बमोरी",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 163,
+   "SubDiv_EName": "Ashoknagar",
+   "SubDiv_HName": "अशोकनगर",
+   "STD": 7543,
+   "PhoneNO": "221120",
+   "MobileNO": 9424794606,
+   "FAXNo": "07543-221120",
+   "EMAIL": "dfoanagrt@mp.gov.in"
+ },
+ {
+   "Sr.No": 164,
+   "SubDiv_EName": "Chanderi",
+   "SubDiv_HName": "चन्देरी",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424794607,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 165,
+   "SubDiv_EName": "Ujjain",
+   "SubDiv_HName": "उज्जैन",
+   "STD": 734,
+   "PhoneNO": "2512104",
+   "MobileNO": 9424794988,
+   "FAXNo": "2512104     ",
+   "EMAIL": "dfoujjain@mp.gov.in"
+ },
+ {
+   "Sr.No": 166,
+   "SubDiv_EName": "Shajapur",
+   "SubDiv_HName": "शाजापुर ",
+   "STD": 7364,
+   "PhoneNO": "227157",
+   "MobileNO": 9424794886,
+   "FAXNo": "222028      ",
+   "EMAIL": "dfo_sjr@mp.gov.in"
+ },
+ {
+   "Sr.No": 167,
+   "SubDiv_EName": "Ratlam",
+   "SubDiv_HName": "रतलाम",
+   "STD": 7412,
+   "PhoneNO": "       ",
+   "MobileNO": 9424794961,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 168,
+   "SubDiv_EName": "Garoth",
+   "SubDiv_HName": "गरोठ",
+   "STD": 7425,
+   "PhoneNO": "238314",
+   "MobileNO": 9424794936,
+   "FAXNo": "            ",
+   "EMAIL": "sdogaroth@mp.gov.in"
+ },
+ {
+   "Sr.No": 169,
+   "SubDiv_EName": "Gandhisagar",
+   "SubDiv_HName": "गांधीसागर",
+   "STD": 7427,
+   "PhoneNO": "237102",
+   "MobileNO": 9424794945,
+   "FAXNo": "237102",
+   "EMAIL": "sdogandhisagar@mp.gov.in"
+ },
+ {
+   "Sr.No": 170,
+   "SubDiv_EName": "Neemuch",
+   "SubDiv_HName": "नीमच",
+   "STD": 7423,
+   "PhoneNO": "232392",
+   "MobileNO": 9424794836,
+   "FAXNo": "232605      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 171,
+   "SubDiv_EName": "Manasa",
+   "SubDiv_HName": "मनासा",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424794864,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 172,
+   "SubDiv_EName": "Dewas",
+   "SubDiv_HName": "देवास",
+   "STD": 7272,
+   "PhoneNO": "253020",
+   "MobileNO": 9424792127,
+   "FAXNo": "253020      ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 173,
+   "SubDiv_EName": "Kannod",
+   "SubDiv_HName": "कन्नौद",
+   "STD": 7273,
+   "PhoneNO": "222342",
+   "MobileNO": 9424792198,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 174,
+   "SubDiv_EName": "Bagli",
+   "SubDiv_HName": "बागली",
+   "STD": 7271,
+   "PhoneNO": "275255",
+   "MobileNO": 9424792184,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 175,
+   "SubDiv_EName": "Kheoni",
+   "SubDiv_HName": "खिवनी",
+   "STD": 7273,
+   "PhoneNO": "222542",
+   "MobileNO": 9424792199,
+   "FAXNo": "            ",
+   "EMAIL": "Sdokheoni@mp.gov.in"
+ },
+ {
+   "Sr.No": 176,
+   "SubDiv_EName": "Banjar",
+   "SubDiv_HName": "बंजर",
+   "STD": 7642,
+   "PhoneNO": "250760",
+   "MobileNO": 9425328674,
+   "FAXNo": "251266      ",
+   "EMAIL": "fdkanha@mp.gov.in"
+ },
+ {
+   "Sr.No": 177,
+   "SubDiv_EName": "Halon",
+   "SubDiv_HName": "हलोन",
+   "STD": 7642,
+   "PhoneNO": "250760",
+   "MobileNO": 9424792007,
+   "FAXNo": "251266      ",
+   "EMAIL": "fdkanha@mp.gov.in"
+ },
+ {
+   "Sr.No": 178,
+   "SubDiv_EName": "Phen Sanctuary",
+   "SubDiv_HName": "फेन अभयारण्य",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 179,
+   "SubDiv_EName": "Sijhora",
+   "SubDiv_HName": "सिझौरा",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792008,
+   "FAXNo": "            ",
+   "EMAIL": "adsijhora@mp.gov.in"
+ },
+ {
+   "Sr.No": 180,
+   "SubDiv_EName": "Malanjkhand",
+   "SubDiv_HName": "मलाजखण्ड",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424792006,
+   "FAXNo": "            ",
+   "EMAIL": "admalanjkhand@mp.gov.in"
+ },
+ {
+   "Sr.No": 181,
+   "SubDiv_EName": "Asst. Director Madla",
+   "SubDiv_HName": "सहायक निदेशक मडला",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 182,
+   "SubDiv_EName": "Superintendent Ken Gharial Sanctuary",
+   "SubDiv_HName": "सुपरीडेंट केन घडियाल अभयारण्य",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 183,
+   "SubDiv_EName": "Asst. Director Panna",
+   "SubDiv_HName": "सहायक निदेशक पन्ना",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 184,
+   "SubDiv_EName": "Rukhad",
+   "SubDiv_HName": "रुखड",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 185,
+   "SubDiv_EName": "Khawasa",
+   "SubDiv_HName": "खवासा",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 186,
+   "SubDiv_EName": "Bichhua",
+   "SubDiv_HName": "बिछुआ",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 187,
+   "SubDiv_EName": "Bori(Itarsi) Sanctuary",
+   "SubDiv_HName": "बोरी(इटारसी) अभयारण्य",
+   "STD": 7578,
+   "PhoneNO": "252860",
+   "MobileNO": 9424792102,
+   "FAXNo": "            ",
+   "EMAIL": "sdo_pachmarhi@mp.gov.in"
+ },
+ {
+   "Sr.No": 188,
+   "SubDiv_EName": "Pachmarhi Sanctuary",
+   "SubDiv_HName": "पचमढ़ी अभयारण्य",
+   "STD": 7578,
+   "PhoneNO": "252626",
+   "MobileNO": 9424792103,
+   "FAXNo": "            ",
+   "EMAIL": "sdo_pachmarhi@mp.gov.in"
+ },
+ {
+   "Sr.No": 189,
+   "SubDiv_EName": "Sohagpur",
+   "SubDiv_HName": "सोहागपुर",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 190,
+   "SubDiv_EName": "Pipariya",
+   "SubDiv_HName": "पिपरिया",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 191,
+   "SubDiv_EName": "Manpur",
+   "SubDiv_HName": "मानपुर",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 192,
+   "SubDiv_EName": "Tala",
+   "SubDiv_HName": "ताला",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 193,
+   "SubDiv_EName": "Dhamokhar",
+   "SubDiv_HName": "धमोखर",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 194,
+   "SubDiv_EName": "Panpatha Sanctuary",
+   "SubDiv_HName": "पनपथा अभयारण्य",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 195,
+   "SubDiv_EName": "Assistant Director",
+   "SubDiv_HName": "सहायक संचालक",
+   "STD": 7492,
+   "PhoneNO": "223379",
+   "MobileNO": 9424794806,
+   "FAXNo": "07492-223379",
+   "EMAIL": "madhavpark@mp.gov.in"
+ },
+ {
+   "Sr.No": 196,
+   "SubDiv_EName": "Son Ghariyal Sanctuary",
+   "SubDiv_HName": "सोन घडियाल अभयारण्य",
+   "STD": 7822,
+   "PhoneNO": "       ",
+   "MobileNO": 9224793686,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 197,
+   "SubDiv_EName": "Bagdara Sanctuary",
+   "SubDiv_HName": "बगदरा अभयारण्य",
+   "STD": 7822,
+   "PhoneNO": "250512",
+   "MobileNO": 9224793681,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 198,
+   "SubDiv_EName": "Majhauli",
+   "SubDiv_HName": "मझौली",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": 9424793607,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 199,
+   "SubDiv_EName": "Kusmi",
+   "SubDiv_HName": "कुसमी",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 200,
+   "SubDiv_EName": "Sidhi",
+   "SubDiv_HName": "सिधी",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": 9424793606,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 201,
+   "SubDiv_EName": "Kuno North Vijaypur",
+   "SubDiv_HName": "कुनो उत्तर विजयपुर",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": 9424791939,
+   "FAXNo": "            ",
+   "EMAIL": "sdonorthkunovijaypur@mp.gov.in"
+ },
+ {
+   "Sr.No": 202,
+   "SubDiv_EName": "Kuno South Pohri",
+   "SubDiv_HName": "कुनो दक्षिण पोहरी",
+   "STD": 7490,
+   "PhoneNO": "244340",
+   "MobileNO": 9424791840,
+   "FAXNo": "            ",
+   "EMAIL": "sdoSouthKunoPohari@mp.gov.in"
+ },
+ {
+   "Sr.No": 203,
+   "SubDiv_EName": "Panna Tiger Buffer",
+   "SubDiv_HName": "पन्ना टाईगर बफर",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 204,
+   "SubDiv_EName": "Van Vihar Bhopal",
+   "SubDiv_HName": "वन विहार",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": 9424790615,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 205,
+   "SubDiv_EName": "Narsinghgarh",
+   "SubDiv_HName": "नरसिंहगढ",
+   "STD": 7375,
+   "PhoneNO": "245870",
+   "MobileNO": 9424790802,
+   "FAXNo": "",
+   "EMAIL": "wlsngh@mp.gov.in"
+ },
+ {
+   "Sr.No": 206,
+   "SubDiv_EName": "National Chambal Sanctuary",
+   "SubDiv_HName": "राष्ट्रीय चंबल अभयारण्य",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 207,
+   "SubDiv_EName": "Ralamandal Sanctuary",
+   "SubDiv_HName": "रालामंडल अभयारण्य ",
+   "STD": null,
+   "PhoneNO": "       ",
+   "MobileNO": null,
+   "FAXNo": "            ",
+   "EMAIL": ""
+ },
+ {
+   "Sr.No": 208,
+   "SubDiv_EName": "Mowgli Sanctuary",
+   "SubDiv_HName": "मोगली अभयारण्य",
+   "STD": null,
+   "PhoneNO": "",
+   "MobileNO": null,
+   "FAXNo": "",
+   "EMAIL": ""
+ }
+]
